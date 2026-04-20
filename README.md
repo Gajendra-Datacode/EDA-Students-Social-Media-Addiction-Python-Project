@@ -23,7 +23,7 @@ The goal is to transform raw real-world data into meaningful insights using Pyth
 
 📄 Clean_Students_Social_Media_Addiction_File.xlsx
 
-📄 Project_code.ipynb
+📄 (./Project_code.ipynb)
 
 📄 Project_report.pdf
 
