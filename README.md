@@ -1,5 +1,3 @@
-# EDA-Students-Social-Media-Addiction-Python-Project
-This project performs exploratory data analysis on student social media usage to identify addiction patterns using Python, Pandas, and Matplotlib.
 ## EDA - Students Social Media Addiction (Python Project)
 
 Project Overview :-
@@ -19,9 +17,9 @@ The goal is to transform raw real-world data into meaningful insights using Pyth
 
 📁 Dataset
 
-📄 1_Students_Social_Media_Addiction.csv.csv
 
-📄 Clean_Students_Social_Media_Addiction_File.xlsx
+
+📄(./Clean_Students_Social_Media_Addiction_File.xlsx)
 
 📄 (./Project_code.ipynb)
 
