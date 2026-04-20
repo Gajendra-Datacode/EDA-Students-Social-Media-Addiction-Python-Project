@@ -17,13 +17,17 @@ The goal is to transform raw real-world data into meaningful insights using Pyth
 
 📁 Dataset
 
+For the Cleaned Data:
+[Download Cleaned Excel File](./Clean_Students_Social_Media_Addiction_File.xlsx)
 
+For the Python Code:
+[View Data Cleaning Code](./Project_code.ipynb)
 
-📄(./Clean_Students_Social_Media_Addiction_File.xlsx)
+For the Project Report:
+[Read Full Project Report](./Project_report.pdf)
 
-📄 (./Project_code.ipynb)
-
-📄 Project_report.pdf
+For the Raw Data:
+[View Raw CSV Data](./Students_Social_Media_Addiction.csv.csv)
 
 - Raw Dataset: ./1_Students_Social_Media_Addiction.csv.csv
 - Clean Dataset: ./Clean_Students_Social_Media_Addiction_File.xlsx
