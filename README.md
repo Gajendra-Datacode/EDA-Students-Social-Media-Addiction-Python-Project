@@ -85,7 +85,6 @@ This project involves a comprehensive data cleaning and exploratory data analysi
 ---
 
 ## 📝 Report
-* [Read Full Project Report](./Project_report.pdf)
 
 ### Core Objectives
 The study analyzes how usage patterns correlate with:
