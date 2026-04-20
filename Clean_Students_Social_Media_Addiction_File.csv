@@ -1,0 +1,706 @@
+Student_ID,Age,Gender,Academic_Level,Country,Avg_Daily_Usage_Hours,Most_Used_Platform,Affects_Academic_Performance,Sleep_Hours_Per_Night,Mental_Health_Score,Relationship_Status,Conflicts_Over_Social_Media,Addicted_Score,Daily_Usage_Hours,Sleep_Hours,Academic_Performance,Weekend_Usage_Hours,High_Usage
+1,19,F,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,96.0,In Relationship,3,8,4.1,7.1,Average,6.5,True
+2,22,M,Graduate,India,2.1,Twitter,No,7.5,69.0,Single,0,3,3.3,5.2,Average,4.699999999999999,False
+3,20,F,Undergraduate,USA,6.0,TikTok,Yes,5.0,86.0,Complicated,4,9,4.3,8.3,Average,6.9,True
+4,18,M,High School,UK,3.0,YouTube,No,7.0,74.0,Single,1,4,5.3,4.4,Good,7.1,False
+5,21,M,Graduate,Canada,4.5,Facebook,Yes,6.0,58.0,In Relationship,2,7,3.2,8.2,Good,4.9,False
+6,19,F,Undergraduate,Australia,7.2,Instagram,Yes,4.5,89.0,Complicated,5,9,3.2,6.7,Poor,3.8,True
+7,23,M,Graduate,Germany,1.5,LinkedIn,No,8.0,47.0,Single,0,2,5.4,6.4,Average,6.6000000000000005,False
+8,20,F,Undergraduate,Brazil,5.8,Snapchat,Yes,6.0,69.35590551181102,In Relationship,2,8,4.4,6.0,Good,7.2,True
+9,18,M,High School,Japan,4.0,TikTok,No,6.5,88.0,Single,1,5,2.9,6.9,Poor,4.4,False
+10,29,F,Graduate,South Korea,3.3,Instagram,No,7.0,79.0,In Relationship,1,4,4.2,6.5,Average,6.1,False
+11,19,M,Undergraduate,France,4.8,Snapchat,Yes,6.2,46.0,Complicated,3,7,2.9,7.6,Average,4.7,False
+12,20,F,Undergraduate,Spain,5.5,TikTok,Yes,5.8,69.0,In Relationship,2,8,2.9,6.6,Average,4.9,True
+13,22,M,Graduate,Italy,2.8,LinkedIn,No,7.2,46.0,Single,1,4,3.8,6.7,Average,4.5,False
+14,18,F,High School,Mexico,6.5,Instagram,Yes,5.5,42.0,Single,4,9,1.2,6.1,Average,2.6,True
+15,21,M,Undergraduate,Russia,3.7,YouTube,No,6.8,40.0,In Relationship,2,5,,6.4,Excellent,3.7,False
+16,20,F,Undergraduate,China,4.2,TikTok,Yes,6.0,75.0,Complicated,3,7,2.8,6.8,Good,3.8,False
+17,24,M,Graduate,Sweden,2.0,LinkedIn,No,7.8,64.0,Single,0,3,2.3,4.8,Poor,3.3,False
+18,19,F,High School,Norway,5.0,Instagram,Yes,5.7,76.0,In Relationship,3,8,3.9,5.2,Good,4.4,False
+19,21,M,Undergraduate,Denmark,3.5,Facebook,No,6.7,40.0,Single,1,5,2.4,7.2,Good,4.0,False
+20,20,F,Undergraduate,Netherlands,4.7,Snapchat,Yes,5.9,54.0,Complicated,3,7,1.8,6.7,Good,4.5,False
+21,18,M,High School,Belgium,5.3,TikTok,Yes,5.5,76.0,Single,4,8,5.3,6.3,Good,5.9,True
+22,23,F,Graduate,Switzerland,2.5,LinkedIn,No,7.3,52.0,In Relationship,1,4,3.2,6.5,Average,4.2,False
+23,19,M,Undergraduate,Austria,4.9,Instagram,Yes,5.8,69.35590551181102,Complicated,3,7,,6.8,Poor,4.9,False
+24,20,F,Undergraduate,Portugal,5.7,TikTok,Yes,5.4,47.0,Single,4,8,1.8,6.6,Good,4.1,True
+25,22,M,Graduate,Greece,3.2,Facebook,No,6.9,44.0,In Relationship,2,5,2.8,5.7,Excellent,4.9,False
+26,19,F,High School,Ireland,6.1,Instagram,Yes,5.2,99.0,Complicated,4,9,3.6,6.7,Excellent,5.1,True
+27,21,M,Undergraduate,New Zealand,3.8,YouTube,No,6.6,48.0,Single,1,5,2.1,6.6,Poor,4.5,False
+28,20,F,Undergraduate,Singapore,4.4,TikTok,Yes,5.9,40.0,In Relationship,3,7,4.0,6.9,Poor,6.0,False
+29,24,M,Graduate,Malaysia,2.2,LinkedIn,No,7.4,75.0,Single,0,3,2.8,4.8,Poor,5.5,False
+30,19,F,High School,Thailand,5.9,Instagram,Yes,5.3,74.0,Complicated,4,8,3.1,7.5,Average,5.6,True
+31,21,M,Undergraduate,Vietnam,3.6,Facebook,No,6.7,41.0,Single,1,5,2.8,7.0,Average,3.9,False
+32,20,F,Undergraduate,Philippines,4.8,Snapchat,Yes,5.7,69.35590551181102,In Relationship,3,7,5.7,6.8,Average,6.9,False
+33,18,M,High School,Indonesia,5.4,TikTok,Yes,5.4,62.0,Complicated,4,8,,7.5,Poor,4.3,True
+34,23,F,Graduate,Taiwan,2.6,LinkedIn,No,7.2,69.35590551181102,Single,1,4,2.2,8.2,Good,3.5,False
+35,19,M,Undergraduate,Hong Kong,4.7,Instagram,Yes,5.8,73.0,In Relationship,3,7,4.5,7.5,Average,7.5,False
+36,20,F,Undergraduate,Turkey,5.6,TikTok,Yes,5.5,85.0,Complicated,4,8,2.0,4.7,Good,3.5,True
+37,22,M,Graduate,Israel,3.1,Facebook,No,6.8,53.0,Single,1,5,3.8,5.2,Average,4.9,False
+38,19,F,High School,UAE,6.2,Instagram,Yes,5.1,43.0,In Relationship,4,9,1.1,5.9,Average,3.5,True
+39,21,M,Undergraduate,Egypt,3.9,YouTube,No,6.5,69.0,Complicated,2,6,1.9,6.5,Average,3.8,False
+40,20,F,Undergraduate,Morocco,4.5,TikTok,Yes,5.8,70.0,Single,3,7,3.7,7.0,Average,4.6000000000000005,False
+41,24,M,Graduate,South Africa,2.3,LinkedIn,No,7.3,77.0,In Relationship,1,4,,5.8,Excellent,5.9,False
+42,19,F,High School,Nigeria,5.8,Instagram,Yes,5.4,50.0,Complicated,4,8,3.7,6.7,Good,5.2,True
+43,21,M,Undergraduate,Kenya,3.7,Facebook,No,6.6,74.0,Single,2,5,3.4,5.7,Poor,5.8,False
+44,20,F,Undergraduate,Ghana,4.6,Snapchat,Yes,5.7,47.0,In Relationship,3,7,3.1,5.9,Poor,3.7,False
+45,18,M,High School,Argentina,5.5,TikTok,Yes,5.3,42.0,Single,4,8,1.7,5.1,Excellent,2.9,True
+46,23,F,Graduate,Chile,2.7,LinkedIn,No,7.1,53.0,Complicated,1,4,2.6,5.6,Excellent,4.4,False
+47,19,M,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,99.0,In Relationship,3,7,2.9,5.1,Excellent,4.1,False
+48,20,F,Undergraduate,Peru,5.5,TikTok,Yes,5.6,52.0,Single,4,8,4.8,5.5,Average,6.9,True
+49,22,M,Graduate,Venezuela,3.3,Facebook,No,6.7,84.0,In Relationship,2,5,,6.6,Average,5.6,False
+50,19,F,High School,Ecuador,6.3,Instagram,Yes,5.2,69.35590551181102,Complicated,4,9,1.4,5.6,Good,2.8,True
+51,21,M,Undergraduate,Uruguay,3.8,YouTube,No,6.4,73.0,Single,2,6,,9.1,Good,6.8,False
+52,20,F,Undergraduate,Paraguay,4.7,TikTok,Yes,5.8,84.0,In Relationship,3,7,3.0,7.0,Average,5.1,False
+53,24,M,Graduate,Bolivia,2.4,LinkedIn,No,7.2,58.0,Complicated,1,4,2.7,6.7,Average,3.5,False
+54,19,F,High School,Costa Rica,5.7,Instagram,Yes,5.5,98.0,Single,4,8,4.2,5.6,Good,6.1,True
+55,21,M,Undergraduate,Panama,3.6,Facebook,No,6.5,77.0,In Relationship,2,5,4.7,7.2,Average,7.2,False
+56,20,F,Undergraduate,Jamaica,4.9,Snapchat,Yes,5.6,55.0,Complicated,3,7,4.6,5.9,Good,6.9,False
+57,18,M,High School,Trinidad,5.6,TikTok,Yes,5.2,41.0,Single,4,8,2.5,6.6,Good,3.4,True
+58,23,F,Graduate,Bahamas,2.8,LinkedIn,No,7.0,79.0,In Relationship,1,4,3.1,9.1,Average,6.0,False
+59,19,M,Undergraduate,Iceland,4.6,Instagram,Yes,5.9,56.0,Complicated,3,7,3.9,6.6,Average,5.5,False
+60,20,F,Undergraduate,Finland,5.4,TikTok,Yes,5.7,69.35590551181102,Single,4,8,4.7,7.6,Average,5.6000000000000005,True
+61,22,M,Graduate,Poland,3.1,Facebook,No,7.1,69.35590551181102,Single,1,5,2.9,5.8,Average,3.9,False
+62,19,F,Undergraduate,Romania,5.6,Instagram,Yes,5.6,81.0,In Relationship,3,8,3.3,6.6,Average,4.0,True
+63,20,M,Undergraduate,Hungary,4.2,TikTok,Yes,6.0,99.0,Complicated,3,7,2.2,8.3,Excellent,4.7,False
+64,18,F,High School,Czech Republic,6.1,Snapchat,Yes,5.2,55.0,Single,4,9,2.1,5.9,Excellent,2.9000000000000004,True
+65,31,M,Graduate,Slovakia,2.3,LinkedIn,No,7.4,77.0,In Relationship,1,3,4.5,8.3,Excellent,5.3,False
+66,21,F,Undergraduate,Croatia,4.8,Instagram,Yes,5.8,99.0,Single,3,7,5.1,7.2,Good,7.699999999999999,False
+67,20,M,Undergraduate,Serbia,3.9,YouTube,No,6.5,41.0,Complicated,2,6,3.4,5.9,Average,4.8,False
+68,19,F,High School,Slovenia,5.7,TikTok,Yes,5.4,41.0,In Relationship,4,8,4.7,7.1,Poor,5.3,True
+69,22,M,Graduate,Bulgaria,2.8,LinkedIn,No,7.2,65.0,Single,1,4,3.9,7.5,Excellent,4.5,False
+70,20,F,Undergraduate,Estonia,4.5,Instagram,Yes,5.9,52.0,Complicated,3,7,2.7,7.1,Good,3.6,False
+71,18,M,High School,Latvia,5.4,Snapchat,Yes,5.5,95.0,Single,4,8,3.9,4.9,Average,4.9,True
+72,21,F,Graduate,Lithuania,3.2,Facebook,No,6.8,86.0,In Relationship,2,5,5.3,5.8,Good,7.5,False
+73,19,M,Undergraduate,Ukraine,4.9,TikTok,Yes,5.7,69.35590551181102,Complicated,3,7,3.5,6.3,Average,4.4,False
+74,20,F,Undergraduate,Moldova,5.8,Instagram,Yes,5.3,99.0,Single,4,8,5.4,6.4,Average,6.2,True
+75,23,M,Graduate,Belarus,2.5,LinkedIn,No,7.3,73.0,In Relationship,1,4,0.4,7.1,Average,2.8,False
+76,21,F,Undergraduate,Kazakhstan,4.6,Snapchat,Yes,5.8,78.0,Single,3,7,4.5,6.7,Excellent,6.7,False
+77,19,M,High School,Uzbekistan,5.5,TikTok,Yes,5.4,42.0,Complicated,4,8,3.6,5.2,Excellent,5.2,True
+78,22,F,Graduate,Kyrgyzstan,2.9,Facebook,No,7.0,47.0,In Relationship,2,5,3.1,6.6,Average,5.0,False
+79,20,M,Undergraduate,Tajikistan,4.7,YouTube,Yes,5.9,62.0,Single,3,7,3.6,7.1,Average,4.9,False
+80,18,F,High School,Armenia,5.9,Instagram,Yes,5.2,53.0,Complicated,4,9,,7.1,Average,2.8,True
+81,29,M,Graduate,Georgia,3.0,LinkedIn,No,7.1,95.0,In Relationship,1,4,3.2,7.6,Average,5.0,False
+82,19,F,Undergraduate,Azerbaijan,4.8,TikTok,Yes,5.7,94.0,Single,3,7,3.9,6.6,Excellent,5.4,False
+83,20,M,Undergraduate,Cyprus,3.8,Facebook,No,6.6,69.35590551181102,Complicated,2,6,5.3,7.0,Average,8.1,False
+84,22,F,Graduate,Malta,2.7,LinkedIn,No,7.2,93.0,In Relationship,1,4,,6.4,Good,3.4,False
+85,18,M,High School,Luxembourg,5.6,Snapchat,Yes,5.3,68.0,Single,4,8,2.5,4.8,Poor,5.0,True
+86,29,F,Undergraduate,Monaco,4.5,Instagram,Yes,5.8,69.35590551181102,Complicated,3,7,,6.9,Good,3.7,False
+87,19,M,High School,Andorra,5.3,TikTok,Yes,5.5,92.0,In Relationship,4,8,4.6,6.7,Good,7.1,True
+88,23,F,Graduate,San Marino,2.6,LinkedIn,No,7.3,78.0,Single,1,4,3.9,6.8,Excellent,5.9,False
+89,20,M,Undergraduate,Vatican City,4.4,YouTube,Yes,6.0,40.0,Complicated,3,7,2.9,5.2,Good,5.5,False
+90,18,F,High School,Liechtenstein,5.8,Instagram,Yes,5.2,56.0,Single,4,9,4.1,5.4,Poor,4.8,True
+91,22,M,Graduate,Montenegro,2.9,Facebook,No,7.0,80.0,In Relationship,2,5,3.6,7.6,Poor,5.5,False
+92,19,F,Undergraduate,Albania,4.7,TikTok,Yes,5.8,69.0,Complicated,3,7,4.7,6.5,Good,6.5,False
+93,21,M,Undergraduate,North Macedonia,3.7,Snapchat,No,6.5,92.0,Single,2,6,2.7,7.2,Good,5.0,False
+94,20,F,High School,Kosovo,5.5,Instagram,Yes,5.4,52.0,In Relationship,4,8,3.1,6.5,Average,4.9,True
+95,23,M,Graduate,Bosnia,2.4,LinkedIn,No,7.4,60.0,Complicated,1,4,3.0,6.5,Poor,4.9,False
+96,27,F,Undergraduate,Qatar,4.9,TikTok,Yes,5.7,58.0,Single,3,7,1.7,7.4,Average,3.3,False
+97,18,M,High School,Kuwait,5.7,Snapchat,Yes,5.3,92.0,In Relationship,4,8,,6.6,Good,5.2,True
+98,22,F,Graduate,Bahrain,2.8,LinkedIn,No,7.1,58.0,Complicated,1,4,3.8,6.6,Good,5.5,False
+99,20,M,Undergraduate,Oman,4.6,Instagram,Yes,5.9,96.0,Single,3,7,3.5,6.0,Average,4.3,False
+100,21,F,Undergraduate,Jordan,5.4,TikTok,Yes,5.5,64.0,In Relationship,4,8,3.2,6.6,Excellent,6.1,True
+101,19,M,High School,Lebanon,5.8,YouTube,Yes,5.2,61.0,Complicated,4,9,1.8,6.2,Average,4.1,True
+102,23,F,Graduate,Iraq,2.5,LinkedIn,No,7.3,70.0,Single,1,4,,6.7,Good,5.9,False
+103,20,M,Undergraduate,Yemen,4.7,Facebook,Yes,5.8,56.0,In Relationship,3,7,3.1,6.0,Average,4.2,False
+104,18,F,High School,Syria,5.6,Instagram,Yes,5.4,69.35590551181102,Single,4,8,2.5,7.8,Average,5.2,True
+105,22,M,Graduate,Afghanistan,2.9,LinkedIn,No,7.0,62.0,Complicated,2,5,3.3,5.6,Average,5.8,False
+106,19,F,Undergraduate,Pakistan,4.8,TikTok,Yes,5.7,71.0,In Relationship,3,7,4.0,6.6,Good,6.2,False
+107,21,M,Undergraduate,Nepal,3.8,YouTube,No,6.6,49.0,Single,2,6,5.8,6.1,Average,7.9,False
+108,20,F,High School,Bhutan,5.5,Snapchat,Yes,5.5,49.0,Complicated,4,8,3.7,7.9,Excellent,5.0,True
+109,23,M,Graduate,Sri Lanka,2.6,LinkedIn,No,7.2,75.0,In Relationship,1,4,3.8,6.7,Average,6.3,False
+110,19,F,Undergraduate,Maldives,4.9,Instagram,Yes,5.8,69.35590551181102,Single,3,7,,7.5,Average,5.2,False
+111,28,M,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,93.0,Single,4,8,1.2,5.0,Average,1.9,True
+112,21,F,Undergraduate,India,5.8,TikTok,Yes,5.9,69.35590551181102,In Relationship,3,7,3.5,6.8,Average,4.8,True
+113,19,M,Undergraduate,Nepal,4.9,Facebook,No,7.1,59.0,Single,2,5,3.6,7.4,Average,6.4,False
+114,22,F,Graduate,Pakistan,5.5,Instagram,Yes,6.0,71.0,Single,4,8,6.5,6.6,Average,9.1,True
+115,20,M,Undergraduate,Sri Lanka,5.2,TikTok,Yes,6.3,69.35590551181102,In Relationship,3,7,3.3,7.6,Good,6.3,True
+116,19,F,Undergraduate,Maldives,4.8,Instagram,No,7.2,53.0,Single,2,5,3.9,6.0,Average,6.0,False
+117,21,M,Graduate,Bangladesh,6.0,Facebook,Yes,5.8,89.0,In Relationship,4,8,,7.9,Good,4.6,True
+118,20,F,Undergraduate,India,5.7,Instagram,Yes,6.1,67.0,Single,3,7,2.1,8.8,Excellent,3.0,True
+119,22,M,Graduate,Nepal,4.7,TikTok,No,7.3,85.0,Single,2,5,4.9,6.1,Excellent,5.9,False
+120,19,F,Undergraduate,Pakistan,5.4,Instagram,Yes,6.2,91.0,In Relationship,4,8,4.4,6.1,Good,4.9,True
+121,20,M,Undergraduate,Sri Lanka,5.9,Facebook,Yes,5.9,69.35590551181102,Single,3,7,4.4,6.6,Average,5.9,True
+122,21,F,Graduate,Maldives,4.6,Instagram,No,7.4,63.0,In Relationship,2,5,2.4,8.1,Average,3.4,False
+123,19,M,Undergraduate,Bangladesh,5.3,TikTok,Yes,6.3,54.0,Single,4,8,,6.0,Average,6.7,True
+124,22,F,Graduate,India,5.8,Instagram,Yes,5.8,61.0,In Relationship,3,7,1.8,6.1,Good,4.6,True
+125,20,M,Undergraduate,Nepal,4.5,Facebook,No,7.5,69.0,Single,2,5,4.2,6.2,Good,5.800000000000001,False
+126,21,F,Graduate,Pakistan,5.2,Instagram,Yes,6.4,43.0,In Relationship,4,8,6.1,5.2,Excellent,8.8,True
+127,19,M,Undergraduate,Sri Lanka,5.7,TikTok,Yes,5.7,52.0,Single,3,7,2.3,5.6,Good,4.3,True
+128,20,F,Undergraduate,Maldives,4.4,Instagram,No,7.6,98.0,In Relationship,2,5,2.8,5.5,Good,3.9,False
+129,22,M,Graduate,Bangladesh,5.1,Facebook,Yes,6.5,62.0,Single,4,8,3.6,5.7,Excellent,5.0,True
+130,21,F,Graduate,India,5.6,Instagram,Yes,5.6,47.0,In Relationship,3,7,2.9,6.6,Good,3.6,True
+131,19,M,Undergraduate,Nepal,4.3,TikTok,No,7.7,69.35590551181102,Single,2,5,,6.7,Average,2.9000000000000004,False
+132,20,F,Undergraduate,Pakistan,5.0,Instagram,Yes,6.6,51.0,In Relationship,4,8,3.6,8.1,Average,5.800000000000001,False
+133,22,M,Graduate,Sri Lanka,5.5,Facebook,Yes,5.5,94.0,Single,3,7,,6.6,Poor,2.9000000000000004,True
+134,21,F,Graduate,Maldives,4.2,Instagram,No,7.8,70.0,In Relationship,2,5,4.1,7.5,Poor,5.1,False
+135,19,M,Undergraduate,Bangladesh,4.9,TikTok,Yes,6.7,53.0,Single,4,8,2.4,6.3,Average,3.9,False
+136,28,F,Undergraduate,India,5.4,Instagram,Yes,5.4,73.0,In Relationship,3,7,5.4,6.5,Good,8.4,True
+137,22,M,Graduate,Nepal,4.1,Facebook,No,7.9,57.0,Single,2,5,2.6,7.2,Average,5.1,False
+138,21,F,Graduate,Pakistan,4.8,Instagram,Yes,6.8,95.0,In Relationship,4,8,3.1,6.6,Average,5.4,False
+139,19,M,Undergraduate,Sri Lanka,5.3,TikTok,Yes,5.3,73.0,Single,3,7,4.5,6.6,Excellent,5.3,True
+140,20,F,Undergraduate,Maldives,4.0,Instagram,No,8.0,50.0,In Relationship,2,5,2.0,6.7,Good,4.5,False
+141,22,M,Graduate,Bangladesh,4.7,Facebook,Yes,6.9,80.0,Single,4,8,3.8,7.0,Average,6.3,False
+142,21,F,Graduate,India,5.2,Instagram,Yes,5.2,51.0,In Relationship,3,7,5.1,6.8,Good,7.1,True
+143,19,M,Undergraduate,Nepal,3.9,TikTok,No,8.1,88.0,Single,2,5,1.6,6.6,Average,4.6,False
+144,20,F,Undergraduate,Pakistan,4.6,Instagram,Yes,7.0,54.0,In Relationship,4,8,3.7,5.9,Average,5.0,False
+145,22,M,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,96.0,Single,3,7,3.8,6.0,Excellent,6.699999999999999,True
+146,21,F,Graduate,Maldives,3.8,Instagram,No,8.2,70.0,In Relationship,2,5,4.4,5.9,Good,7.2,False
+147,19,M,Undergraduate,Bangladesh,4.5,TikTok,Yes,7.1,88.0,Single,4,8,2.0,5.9,Good,2.5,False
+148,20,F,Undergraduate,India,5.0,Instagram,Yes,5.0,97.0,In Relationship,3,7,1.9,5.9,Excellent,3.5,False
+149,22,M,Graduate,Nepal,3.7,Facebook,No,8.3,69.35590551181102,Single,2,5,4.1,7.7,Excellent,7.0,False
+150,21,F,Graduate,Pakistan,4.4,Instagram,Yes,7.2,65.0,In Relationship,4,8,3.9,7.9,Average,4.7,False
+151,19,M,Undergraduate,Sri Lanka,4.9,TikTok,Yes,4.9,57.0,Single,3,7,3.8,5.9,Good,5.699999999999999,False
+152,20,F,Undergraduate,Maldives,3.6,Instagram,No,8.4,71.0,In Relationship,2,5,3.9,5.7,Good,6.8,False
+153,22,M,Graduate,Bangladesh,4.3,Facebook,Yes,7.3,61.0,Single,4,8,,7.0,Good,4.6,False
+154,21,F,Graduate,India,4.8,Instagram,Yes,4.8,77.0,In Relationship,3,7,3.8,5.9,Poor,4.8,False
+155,19,M,Undergraduate,Nepal,3.5,TikTok,No,8.5,56.0,Single,2,5,3.9,7.1,Good,5.9,False
+156,20,F,Undergraduate,Pakistan,4.2,Instagram,Yes,7.4,62.0,In Relationship,4,8,2.6,6.7,Good,3.6,False
+157,22,M,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,69.35590551181102,Single,3,7,,5.0,Poor,7.5,False
+158,21,F,Graduate,Maldives,3.4,Instagram,No,8.6,89.0,In Relationship,2,5,4.1,8.0,Average,4.8,False
+159,19,M,Undergraduate,Bangladesh,4.1,TikTok,Yes,7.5,47.0,Single,4,8,2.1,8.3,Excellent,4.1,False
+160,20,F,Undergraduate,India,4.6,Instagram,Yes,4.6,80.0,In Relationship,3,7,,5.9,Excellent,6.1,False
+161,19,F,Undergraduate,Bangladesh,5.3,Instagram,Yes,6.1,45.0,Single,3,7,2.3,6.1,Good,4.699999999999999,True
+162,21,M,Graduate,India,4.8,Facebook,No,7.2,44.0,In Relationship,2,6,4.4,6.6,Good,6.5,False
+163,20,F,Undergraduate,Nepal,5.5,TikTok,Yes,5.9,69.35590551181102,Single,4,8,4.9,6.8,Excellent,6.800000000000001,True
+164,22,M,Graduate,Pakistan,4.7,Instagram,Yes,6.3,96.0,In Relationship,3,7,2.5,7.2,Excellent,4.7,False
+165,19,F,Undergraduate,Sri Lanka,5.1,Facebook,No,7.0,68.0,Single,2,5,4.7,8.5,Average,5.6000000000000005,True
+166,21,M,Graduate,Maldives,5.4,TikTok,Yes,6.0,67.0,In Relationship,4,8,4.0,6.6,Good,6.0,True
+167,20,F,Undergraduate,Bangladesh,4.9,Instagram,Yes,6.4,50.0,Single,3,7,,5.7,Good,5.4,False
+168,22,M,Graduate,India,5.2,Facebook,No,7.1,96.0,In Relationship,2,6,,5.1,Average,8.6,True
+169,19,F,Undergraduate,Nepal,5.6,TikTok,Yes,5.8,40.0,Single,4,8,,5.8,Average,3.9,True
+170,21,M,Graduate,Pakistan,4.6,Instagram,Yes,6.5,82.0,In Relationship,3,7,,6.5,Excellent,4.2,False
+171,20,F,Undergraduate,Sri Lanka,5.0,Facebook,No,7.3,58.0,Single,2,5,2.4,8.3,Average,4.6,False
+172,22,M,Graduate,Maldives,5.3,TikTok,Yes,5.7,48.0,In Relationship,4,8,,6.0,Excellent,4.1,True
+173,19,F,Undergraduate,Bangladesh,4.8,Instagram,Yes,6.6,66.0,Single,3,7,3.4,6.7,Excellent,4.1,False
+174,21,M,Graduate,India,5.1,Facebook,No,7.4,69.35590551181102,In Relationship,2,6,3.9,6.6,Average,5.8,True
+175,20,F,Undergraduate,Nepal,5.7,TikTok,Yes,5.6,83.0,Single,4,8,3.8,7.7,Average,5.9,True
+176,22,M,Graduate,Pakistan,4.5,Instagram,Yes,6.7,43.0,In Relationship,3,7,4.5,9.0,Excellent,6.8,False
+177,19,F,Undergraduate,Sri Lanka,4.9,Facebook,No,7.5,69.35590551181102,Single,2,5,3.5,6.0,Excellent,4.9,False
+178,21,M,Graduate,Maldives,5.2,TikTok,Yes,5.5,57.0,In Relationship,4,8,,6.0,Good,7.1,True
+179,20,F,Undergraduate,Bangladesh,4.7,Instagram,Yes,6.8,54.0,Single,3,7,3.2,7.5,Good,4.800000000000001,False
+180,22,M,Graduate,India,5.0,Facebook,No,7.6,90.0,In Relationship,2,6,6.8,7.2,Good,9.0,False
+181,19,F,Undergraduate,Nepal,5.8,TikTok,Yes,5.4,52.0,Single,4,8,4.3,8.3,Poor,6.3,True
+182,29,M,Graduate,Pakistan,4.4,Instagram,Yes,6.9,58.0,In Relationship,3,7,2.5,6.6,Good,4.3,False
+183,20,F,Undergraduate,Sri Lanka,4.8,Facebook,No,7.7,88.0,Single,2,5,2.2,6.1,Good,3.3000000000000003,False
+184,22,M,Graduate,Maldives,5.1,TikTok,Yes,5.3,45.0,In Relationship,4,8,4.1,7.1,Average,4.6,True
+185,19,F,Undergraduate,Bangladesh,4.6,Instagram,Yes,7.0,87.0,Single,3,7,3.2,7.6,Good,4.1000000000000005,False
+186,21,M,Graduate,India,4.9,Facebook,No,7.8,95.0,In Relationship,2,6,4.4,7.3,Good,5.2,False
+187,20,F,Undergraduate,Nepal,5.9,TikTok,Yes,5.2,51.0,Single,4,8,4.1,7.0,Excellent,5.699999999999999,True
+188,22,M,Graduate,Pakistan,4.3,Instagram,Yes,7.1,90.0,In Relationship,3,7,3.4,7.6,Good,5.4,False
+189,27,F,Undergraduate,Sri Lanka,4.7,Facebook,No,7.9,76.0,Single,2,5,,7.7,Excellent,3.5,False
+190,21,M,Graduate,Maldives,5.0,TikTok,Yes,5.1,56.0,In Relationship,4,8,1.7,7.9,Excellent,4.5,False
+191,20,F,Undergraduate,Bangladesh,4.5,Instagram,Yes,7.2,97.0,Single,3,7,3.0,6.6,Poor,3.5,False
+192,22,M,Graduate,India,4.8,Facebook,No,8.0,69.35590551181102,In Relationship,2,6,4.5,6.6,Excellent,6.9,False
+193,19,F,Undergraduate,Nepal,6.0,TikTok,Yes,5.0,65.0,Single,4,8,3.8,6.6,Good,5.9,True
+194,21,M,Graduate,Pakistan,4.2,Instagram,Yes,7.3,68.0,In Relationship,3,7,2.0,6.6,Good,3.4,False
+195,20,F,Undergraduate,Sri Lanka,4.6,Facebook,No,8.1,69.35590551181102,Single,2,5,3.7,5.7,Good,4.3,False
+196,22,M,Graduate,Maldives,4.9,TikTok,Yes,4.9,99.0,In Relationship,4,8,4.0,6.9,Good,6.1,False
+197,19,F,Undergraduate,Bangladesh,4.4,Instagram,Yes,7.4,66.0,Single,3,7,2.4,6.1,Excellent,3.9,False
+198,21,M,Graduate,India,4.7,Facebook,No,8.2,64.0,In Relationship,2,6,3.7,6.6,Average,6.5,False
+199,20,F,Undergraduate,Nepal,6.1,TikTok,Yes,4.8,95.0,Single,4,8,3.6,7.8,Poor,5.5,True
+200,30,M,Graduate,Pakistan,4.1,Instagram,Yes,7.5,94.0,In Relationship,3,7,2.1,6.7,Average,4.9,False
+201,19,F,Undergraduate,Sri Lanka,4.5,Facebook,No,8.3,49.0,Single,2,5,3.9,6.5,Poor,5.0,False
+202,21,M,Graduate,Maldives,4.8,TikTok,Yes,4.7,86.0,In Relationship,4,8,4.2,5.1,Excellent,6.5,False
+203,20,F,Undergraduate,Bangladesh,4.3,Instagram,Yes,7.6,62.0,Single,3,7,4.8,7.2,Good,6.8,False
+204,22,M,Graduate,India,4.6,Facebook,No,8.4,60.0,In Relationship,2,6,4.8,7.1,Good,7.1,False
+205,19,F,Undergraduate,Nepal,6.2,TikTok,Yes,4.6,60.0,Single,4,8,1.8,8.7,Average,2.8,True
+206,21,M,Graduate,Pakistan,4.0,Instagram,Yes,7.7,82.0,In Relationship,3,7,2.4,6.2,Poor,4.6,False
+207,20,F,Undergraduate,Sri Lanka,4.4,Facebook,No,8.5,52.0,Single,2,5,4.1,6.7,Good,5.8,False
+208,22,M,Graduate,Maldives,4.7,TikTok,Yes,4.5,76.0,In Relationship,4,8,4.1,6.7,Average,6.5,False
+209,19,F,Undergraduate,Bangladesh,4.2,Instagram,Yes,7.8,72.0,Single,3,7,4.1,8.1,Excellent,5.4,False
+210,21,M,Graduate,India,4.5,Facebook,No,8.6,63.0,In Relationship,2,6,8.1,6.4,Excellent,10.8,False
+211,20,F,Undergraduate,Nepal,6.3,TikTok,Yes,4.4,83.0,Single,4,8,4.2,6.8,Good,4.9,True
+212,22,M,Graduate,Pakistan,3.9,Instagram,Yes,7.9,69.35590551181102,In Relationship,3,7,4.9,7.1,Poor,7.4,False
+213,19,F,Undergraduate,Sri Lanka,4.3,Facebook,No,8.7,56.0,Single,2,5,,6.7,Poor,7.3,False
+214,21,M,Graduate,Maldives,4.6,TikTok,Yes,4.3,43.0,In Relationship,4,8,4.3,6.1,Good,6.8,False
+215,20,F,Undergraduate,Bangladesh,4.1,Instagram,Yes,8.0,86.0,Single,3,7,3.1,6.7,Excellent,4.9,False
+216,22,M,Graduate,India,4.4,Facebook,No,8.8,64.0,In Relationship,2,6,4.4,7.6,Excellent,6.0,False
+217,27,F,Undergraduate,Nepal,6.4,TikTok,Yes,4.2,69.0,Single,4,8,2.6,5.5,Good,5.6,True
+218,21,M,Graduate,Pakistan,3.8,Instagram,Yes,8.1,48.0,In Relationship,3,7,3.2,6.6,Good,4.300000000000001,False
+219,28,F,Undergraduate,Sri Lanka,4.2,Facebook,No,8.9,60.0,Single,2,5,2.9,5.8,Poor,4.8,False
+220,22,M,Graduate,Maldives,4.5,TikTok,Yes,4.1,59.0,In Relationship,4,8,3.6,7.7,Average,5.800000000000001,False
+221,19,F,Undergraduate,USA,6.5,Instagram,Yes,6.0,58.0,Single,4,9,6.3,5.0,Good,8.6,True
+222,29,M,Graduate,UK,5.8,TikTok,Yes,6.5,58.0,In Relationship,3,7,,5.9,Excellent,2.3,True
+223,20,F,Undergraduate,Australia,4.5,Instagram,No,7.5,51.0,Single,2,5,4.3,6.9,Poor,6.4,False
+224,22,M,Graduate,Germany,4.2,Facebook,No,7.8,76.0,In Relationship,2,4,1.6,8.1,Average,4.1,False
+225,19,F,Undergraduate,Japan,3.8,LINE,No,7.9,81.0,Single,1,3,2.9,6.6,Average,3.5,False
+226,21,M,Graduate,Italy,5.5,Instagram,Yes,6.8,56.0,Single,3,7,4.8,5.9,Average,7.6,True
+227,20,F,Undergraduate,South Korea,5.2,KakaoTalk,Yes,6.5,76.0,In Relationship,3,6,3.6,8.4,Good,4.2,True
+228,22,M,Graduate,Russia,4.8,VKontakte,No,7.2,93.0,Single,2,5,2.2,5.1,Excellent,3.6,False
+229,19,F,Undergraduate,USA,7.0,TikTok,Yes,5.8,87.0,In Relationship,4,9,2.6,4.3,Good,3.1,True
+230,21,M,Graduate,UK,5.5,Instagram,Yes,6.7,78.0,Single,3,7,4.3,6.9,Good,5.0,True
+231,20,F,Undergraduate,Australia,4.7,Facebook,No,7.4,67.0,In Relationship,2,5,2.6,6.0,Excellent,5.4,False
+232,22,M,Graduate,Germany,4.0,Instagram,No,7.9,80.0,Single,1,4,3.8,5.5,Poor,5.199999999999999,False
+233,19,F,Undergraduate,Japan,3.5,LINE,No,8.0,74.0,Single,1,3,3.6,7.2,Average,5.2,False
+234,21,M,Graduate,Italy,5.7,TikTok,Yes,6.5,86.0,In Relationship,3,8,,6.7,Average,3.7,True
+235,20,F,Undergraduate,South Korea,5.0,KakaoTalk,Yes,6.8,87.0,Single,3,6,6.1,5.9,Good,8.1,False
+236,22,M,Graduate,Russia,4.5,VKontakte,No,7.4,57.0,In Relationship,2,5,4.3,5.2,Good,6.3,False
+237,19,F,Undergraduate,USA,6.8,Instagram,Yes,5.9,53.0,Single,4,9,1.1,7.4,Average,2.5,True
+238,21,M,Graduate,UK,5.6,Facebook,Yes,6.6,74.0,In Relationship,3,7,3.7,7.2,Good,5.0,True
+239,20,F,Undergraduate,Australia,4.6,Instagram,No,7.3,83.0,Single,2,5,2.7,6.6,Excellent,5.4,False
+240,22,M,Graduate,Germany,4.1,Facebook,No,7.7,80.0,In Relationship,2,4,4.5,8.3,Good,6.0,False
+241,19,F,Undergraduate,Japan,3.7,LINE,No,7.8,99.0,Single,1,3,2.5,5.4,Average,4.2,False
+242,21,M,Graduate,Italy,5.4,Instagram,Yes,6.7,69.35590551181102,Single,3,7,3.4,6.6,Good,4.6,True
+243,20,F,Undergraduate,South Korea,5.1,KakaoTalk,Yes,6.6,69.35590551181102,In Relationship,3,6,4.1,5.8,Excellent,6.6,True
+244,22,M,Graduate,Russia,4.7,VKontakte,No,7.3,69.35590551181102,Single,2,5,4.5,6.5,Excellent,6.0,False
+245,19,F,Undergraduate,USA,6.9,TikTok,Yes,5.7,69.35590551181102,In Relationship,4,9,2.1,6.7,Excellent,3.9,True
+246,21,M,Graduate,UK,5.7,Instagram,Yes,6.4,76.0,Single,3,7,3.1,6.3,Good,4.2,True
+247,20,F,Undergraduate,Australia,4.8,Facebook,No,7.2,52.0,In Relationship,2,5,2.9,6.9,Excellent,5.9,False
+248,22,M,Graduate,Germany,3.9,Instagram,No,7.8,69.35590551181102,Single,1,4,2.7,6.6,Good,3.9,False
+249,19,F,Undergraduate,Japan,3.6,LINE,No,8.1,69.35590551181102,Single,1,3,5.6,7.9,Good,8.0,False
+250,21,M,Graduate,Italy,5.6,TikTok,Yes,6.6,41.0,In Relationship,3,8,4.0,6.6,Good,5.6,True
+251,20,F,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.9,55.0,Single,3,6,2.0,7.6,Good,3.0,False
+252,22,M,Graduate,Russia,4.6,VKontakte,No,7.5,48.0,In Relationship,2,5,4.6,6.8,Poor,7.1,False
+253,19,F,Undergraduate,USA,6.7,Instagram,Yes,5.8,69.35590551181102,Single,4,9,6.0,7.0,Poor,7.3,True
+254,21,M,Graduate,UK,5.4,Facebook,Yes,6.5,77.0,In Relationship,3,7,,7.1,Poor,7.4,True
+255,20,F,Undergraduate,Australia,4.4,Instagram,No,7.4,50.0,Single,2,5,1.7,6.9,Good,4.5,False
+256,22,M,Graduate,Germany,4.0,Facebook,No,7.6,93.0,In Relationship,2,4,2.9,7.1,Good,5.5,False
+257,19,F,Undergraduate,Japan,3.4,LINE,No,8.2,95.0,Single,1,3,5.0,7.8,Poor,5.6,False
+258,21,M,Graduate,Italy,5.3,Instagram,Yes,6.8,61.0,Single,3,7,2.7,6.7,Average,5.2,True
+259,20,F,Undergraduate,South Korea,5.0,KakaoTalk,Yes,6.7,72.0,In Relationship,3,6,4.0,7.2,Excellent,5.5,False
+260,22,M,Graduate,Russia,4.4,VKontakte,No,7.6,75.0,Single,2,5,,6.4,Excellent,7.1000000000000005,False
+261,19,F,Undergraduate,USA,6.6,TikTok,Yes,5.6,84.0,In Relationship,4,9,2.4,7.9,Good,4.5,True
+262,21,M,Graduate,UK,5.3,Instagram,Yes,6.3,62.0,Single,3,7,3.4,5.8,Poor,6.0,True
+263,20,F,Undergraduate,Australia,4.3,Facebook,No,7.5,84.0,In Relationship,2,5,,8.3,Good,1.2999999999999998,False
+264,22,M,Graduate,Germany,3.8,Instagram,No,7.7,84.0,Single,1,4,2.3,6.5,Good,4.1,False
+265,19,F,Undergraduate,Japan,3.3,LINE,No,8.3,73.0,Single,1,3,3.2,5.1,Excellent,4.1000000000000005,False
+266,21,M,Graduate,Italy,5.2,TikTok,Yes,6.9,48.0,In Relationship,3,8,,6.6,Average,4.5,True
+267,20,F,Undergraduate,South Korea,4.8,KakaoTalk,Yes,7.0,63.0,Single,3,6,5.5,5.8,Average,7.0,False
+268,22,M,Graduate,Russia,4.3,VKontakte,No,7.7,47.0,In Relationship,2,5,1.8,7.3,Average,3.6,False
+269,19,F,Undergraduate,USA,6.4,Instagram,Yes,5.7,46.0,Single,4,9,3.0,5.8,Average,5.5,True
+270,21,M,Graduate,UK,5.2,Facebook,Yes,6.4,75.0,In Relationship,3,7,3.7,6.1,Poor,5.7,True
+271,20,F,Undergraduate,Australia,4.5,Instagram,No,7.3,57.0,Single,2,5,5.2,4.6,Good,6.2,False
+272,22,M,Graduate,Germany,3.7,Facebook,No,7.8,42.0,In Relationship,1,4,1.8,6.0,Good,3.8,False
+273,19,F,Undergraduate,Japan,3.2,LINE,No,8.4,69.35590551181102,Single,1,3,4.9,4.1,Good,6.4,False
+274,29,M,Graduate,Italy,5.4,Instagram,Yes,6.7,45.0,Single,3,7,3.5,4.9,Average,5.2,True
+275,20,F,Undergraduate,South Korea,4.7,KakaoTalk,Yes,7.1,83.0,In Relationship,3,6,2.3,7.3,Average,2.9,False
+276,22,M,Graduate,Russia,4.2,VKontakte,No,7.8,83.0,Single,2,5,4.1,7.3,Average,5.1,False
+277,19,F,Undergraduate,USA,6.6,TikTok,Yes,5.5,60.0,In Relationship,4,9,3.7,6.6,Average,4.9,True
+278,21,M,Graduate,UK,5.1,Instagram,Yes,6.5,67.0,Single,3,7,2.8,5.5,Good,5.1,True
+279,20,F,Undergraduate,Australia,4.4,Facebook,No,7.4,79.0,In Relationship,2,5,3.6,6.5,Poor,4.1,False
+280,22,M,Graduate,Germany,3.6,Instagram,No,7.9,69.35590551181102,Single,1,4,3.0,6.5,Good,4.5,False
+281,19,F,Undergraduate,Japan,3.1,LINE,No,8.5,93.0,Single,1,3,3.6,6.6,Good,6.4,False
+282,21,M,Graduate,Italy,5.3,TikTok,Yes,6.8,40.0,In Relationship,3,8,4.3,8.0,Average,5.1,True
+283,20,F,Undergraduate,South Korea,4.6,KakaoTalk,Yes,7.2,75.0,Single,3,6,5.4,7.4,Average,7.2,False
+284,22,M,Graduate,Russia,4.1,VKontakte,No,7.9,60.0,In Relationship,2,5,2.0,6.3,Good,4.5,False
+285,19,F,Undergraduate,USA,6.7,Instagram,Yes,5.4,99.0,Single,4,9,6.1,6.5,Good,9.0,True
+286,21,M,Graduate,UK,5.0,Facebook,Yes,6.6,82.0,In Relationship,3,7,1.2,6.7,Poor,3.6,False
+287,20,F,Undergraduate,Australia,4.3,Instagram,No,7.5,69.35590551181102,Single,2,5,3.3,4.5,Good,5.6,False
+288,22,M,Graduate,Germany,3.5,Facebook,No,8.0,52.0,In Relationship,1,4,4.2,6.6,Poor,6.800000000000001,False
+289,19,F,Undergraduate,Japan,3.0,LINE,No,8.6,96.0,Single,1,3,3.8,6.6,Excellent,5.4,False
+290,21,M,Graduate,Italy,5.2,Instagram,Yes,6.9,88.0,Single,3,7,2.8,5.5,Good,5.3,True
+291,20,F,Undergraduate,South Korea,4.5,KakaoTalk,Yes,7.3,93.0,In Relationship,3,6,3.3,6.2,Excellent,3.8,False
+292,22,M,Graduate,Russia,4.0,VKontakte,No,8.0,93.0,Single,2,5,2.9,8.3,Poor,5.699999999999999,False
+293,19,F,Undergraduate,USA,6.8,TikTok,Yes,5.3,49.0,In Relationship,4,9,2.8,7.1,Average,4.4,True
+294,21,M,Graduate,UK,4.9,Instagram,Yes,6.7,92.0,Single,3,7,4.5,5.9,Excellent,6.4,False
+295,20,F,Undergraduate,Australia,4.2,Facebook,No,7.6,69.35590551181102,In Relationship,2,5,3.9,7.1,Good,5.0,False
+296,22,M,Graduate,Germany,3.4,Instagram,No,8.1,86.0,Single,1,4,2.7,7.9,Average,5.1,False
+297,19,F,Undergraduate,Japan,2.9,LINE,No,8.7,92.0,Single,1,3,4.6,7.4,Excellent,5.3,False
+298,21,M,Graduate,Italy,5.1,TikTok,Yes,7.0,49.0,In Relationship,3,8,3.9,6.6,Poor,6.6,True
+299,20,F,Undergraduate,South Korea,4.4,KakaoTalk,Yes,7.4,69.35590551181102,Single,3,6,4.5,5.9,Average,7.1,False
+300,22,M,Graduate,Russia,3.9,VKontakte,No,8.1,52.0,In Relationship,2,5,,6.6,Good,5.3,False
+301,19,F,Undergraduate,USA,6.9,Instagram,Yes,5.2,76.0,Single,4,9,2.5,6.9,Poor,5.0,True
+302,21,M,Graduate,UK,4.8,Facebook,Yes,6.8,77.0,In Relationship,3,7,2.8,7.4,Good,5.3,False
+303,20,F,Undergraduate,Australia,4.1,Instagram,No,7.7,63.0,Single,2,5,4.4,6.6,Poor,6.5,False
+304,22,M,Graduate,Germany,3.3,Facebook,No,8.2,41.0,In Relationship,1,4,4.2,7.5,Average,5.6,False
+305,19,F,Undergraduate,Japan,2.8,LINE,No,8.8,61.0,Single,1,3,3.5,6.0,Average,4.7,False
+306,21,M,Graduate,Italy,5.0,Instagram,Yes,7.1,56.0,Single,3,7,3.6,7.8,Excellent,4.7,False
+307,20,F,Undergraduate,South Korea,4.3,KakaoTalk,Yes,7.5,75.0,In Relationship,3,6,5.0,6.7,Poor,6.3,False
+308,22,M,Graduate,Russia,3.8,VKontakte,No,8.2,53.0,Single,2,5,2.8,8.6,Good,5.6,False
+309,19,F,Undergraduate,USA,7.0,TikTok,Yes,5.1,49.0,In Relationship,4,9,4.2,6.6,Excellent,4.9,True
+310,21,M,Graduate,UK,4.7,Instagram,Yes,6.9,74.0,Single,3,7,3.3,8.2,Excellent,5.9,False
+311,20,F,Undergraduate,Australia,4.0,Facebook,No,7.8,64.0,In Relationship,2,5,3.2,6.7,Average,4.6,False
+312,22,M,Graduate,Germany,3.2,Instagram,No,8.3,42.0,Single,1,4,4.8,5.8,Good,6.6,False
+313,19,F,Undergraduate,Japan,2.7,LINE,No,8.9,86.0,Single,1,3,4.5,6.0,Average,7.0,False
+314,21,M,Graduate,Italy,4.9,TikTok,Yes,7.2,77.0,In Relationship,3,8,4.5,6.2,Poor,7.2,False
+315,20,F,Undergraduate,South Korea,4.2,KakaoTalk,Yes,7.6,56.0,Single,3,6,5.1,6.6,Excellent,6.5,False
+316,22,M,Graduate,Russia,3.7,VKontakte,No,8.3,51.0,In Relationship,2,5,3.5,7.0,Average,5.2,False
+317,19,F,Undergraduate,USA,7.1,Instagram,Yes,5.0,69.35590551181102,Single,4,9,4.3,5.9,Excellent,5.8,True
+318,21,M,Graduate,UK,4.6,Facebook,Yes,7.0,69.35590551181102,In Relationship,3,7,3.1,6.5,Poor,3.6,False
+319,20,F,Undergraduate,Australia,3.9,Instagram,No,7.9,63.0,Single,2,5,3.9,8.6,Average,5.1,False
+320,22,M,Graduate,Germany,3.1,Facebook,No,8.4,68.0,In Relationship,1,4,3.3,8.2,Good,4.9,False
+321,19,F,Undergraduate,Spain,5.2,Instagram,Yes,6.8,82.0,Single,3,7,3.6,6.9,Average,5.1,True
+322,29,M,Graduate,Denmark,4.1,Facebook,No,7.8,64.0,In Relationship,2,4,4.2,6.5,Good,6.5,False
+323,20,F,Undergraduate,Ireland,5.0,Instagram,Yes,7.0,75.0,Single,3,6,2.5,6.6,Good,4.0,False
+324,22,M,Graduate,India,5.8,WhatsApp,Yes,6.5,97.0,In Relationship,4,8,6.0,7.1,Average,7.7,True
+325,19,F,Undergraduate,Switzerland,4.0,Instagram,No,7.9,99.0,Single,2,4,2.3,5.5,Good,3.9,False
+326,21,M,Graduate,Turkey,5.5,Instagram,Yes,6.7,65.0,Single,3,7,2.0,6.2,Good,4.4,True
+327,20,F,Undergraduate,USA,6.8,TikTok,Yes,5.5,77.0,In Relationship,4,9,4.9,4.8,Good,7.6,True
+328,22,M,Graduate,Mexico,5.6,WhatsApp,Yes,6.6,40.0,Single,3,7,4.4,6.9,Average,6.2,True
+329,19,F,Undergraduate,France,4.5,Instagram,No,7.5,59.0,In Relationship,2,5,4.2,6.6,Good,6.7,False
+330,21,M,Graduate,Canada,5.3,Instagram,Yes,6.9,94.0,Single,3,7,4.3,6.0,Good,5.5,True
+331,20,F,Undergraduate,Spain,5.1,TikTok,Yes,6.7,67.0,Single,3,7,,8.1,Good,5.4,True
+332,22,M,Graduate,Denmark,3.9,Facebook,No,7.9,55.0,In Relationship,2,4,2.4,5.3,Average,3.8,False
+333,19,F,Undergraduate,Ireland,4.8,Instagram,Yes,7.1,86.0,Single,3,6,3.6,5.0,Excellent,5.1,False
+334,21,M,Graduate,India,5.9,WhatsApp,Yes,6.4,56.0,In Relationship,4,8,2.7,6.7,Good,5.0,True
+335,20,F,Undergraduate,Switzerland,3.8,Instagram,No,8.0,79.0,Single,2,4,4.7,7.5,Excellent,7.4,False
+336,22,M,Graduate,Turkey,5.4,TikTok,Yes,6.8,67.0,Single,3,7,,8.2,Good,4.1,True
+337,19,F,Undergraduate,USA,6.9,Instagram,Yes,5.4,97.0,In Relationship,4,9,2.5,6.0,Good,4.6,True
+338,21,M,Graduate,Mexico,5.7,WhatsApp,Yes,6.5,51.0,Single,3,7,3.1,7.6,Good,5.1,True
+339,28,F,Undergraduate,France,4.4,Instagram,No,7.6,66.0,In Relationship,2,5,,6.5,Good,4.8,False
+340,22,M,Graduate,Canada,5.2,TikTok,Yes,7.0,93.0,Single,3,7,2.8,6.3,Average,3.8,True
+341,19,F,Undergraduate,Spain,5.0,Instagram,Yes,6.9,92.0,Single,3,7,2.5,6.6,Good,3.8,False
+342,21,M,Graduate,Denmark,3.8,Facebook,No,8.0,81.0,In Relationship,2,4,3.8,7.2,Average,4.7,False
+343,28,F,Undergraduate,Ireland,4.7,TikTok,Yes,7.2,98.0,Single,3,6,3.8,4.9,Good,4.9,False
+344,22,M,Graduate,India,6.0,WhatsApp,Yes,6.3,86.0,In Relationship,4,8,2.9,8.0,Poor,4.1,True
+345,19,F,Undergraduate,Switzerland,3.7,Instagram,No,8.1,69.0,Single,2,4,2.9,7.9,Average,4.2,False
+346,29,M,Graduate,Turkey,5.3,Instagram,Yes,6.9,69.35590551181102,Single,3,7,,5.9,Excellent,6.199999999999999,True
+347,20,F,Undergraduate,USA,7.0,TikTok,Yes,5.3,73.0,In Relationship,4,9,,6.6,Average,3.7,True
+348,22,M,Graduate,Mexico,5.8,WhatsApp,Yes,6.4,69.35590551181102,Single,3,7,1.8,7.0,Average,4.8,True
+349,19,F,Undergraduate,France,4.3,Instagram,No,7.7,69.35590551181102,In Relationship,2,5,2.6,6.8,Average,4.1,False
+350,21,M,Graduate,Canada,5.1,Instagram,Yes,7.1,46.0,Single,3,7,3.2,5.9,Excellent,5.6,True
+351,20,F,Undergraduate,Spain,4.9,TikTok,Yes,7.0,71.0,Single,3,7,3.9,5.8,Excellent,6.6,False
+352,22,M,Graduate,Denmark,3.7,Facebook,No,8.1,69.35590551181102,In Relationship,2,4,5.3,6.5,Poor,7.5,False
+353,19,F,Undergraduate,Ireland,4.6,Instagram,Yes,7.3,92.0,Single,3,6,4.5,7.7,Good,6.0,False
+354,21,M,Graduate,India,6.1,WhatsApp,Yes,6.2,64.0,In Relationship,4,8,,7.0,Average,5.699999999999999,True
+355,28,F,Undergraduate,Switzerland,3.6,Instagram,No,8.2,72.0,Single,2,4,3.5,6.1,Good,4.5,False
+356,22,M,Graduate,Turkey,5.2,TikTok,Yes,7.0,94.0,Single,3,7,2.3,7.3,Average,3.6,True
+357,19,F,Undergraduate,USA,7.1,Instagram,Yes,5.2,97.0,In Relationship,4,9,3.5,3.7,Average,5.4,True
+358,29,M,Graduate,Mexico,5.9,WhatsApp,Yes,6.3,46.0,Single,3,7,3.2,7.6,Average,5.1,True
+359,20,F,Undergraduate,France,4.2,Instagram,No,7.8,91.0,In Relationship,2,5,3.9,4.8,Good,4.5,False
+360,22,M,Graduate,Canada,5.0,TikTok,Yes,7.2,96.0,Single,3,7,2.5,6.1,Good,5.4,False
+361,19,F,Undergraduate,Spain,4.8,Instagram,Yes,7.1,51.0,Single,3,7,4.1,5.4,Excellent,6.3,False
+362,21,M,Graduate,Denmark,3.6,Facebook,No,8.2,55.0,In Relationship,2,4,5.3,5.2,Good,7.0,False
+363,20,F,Undergraduate,Ireland,4.5,TikTok,Yes,7.4,55.0,Single,3,6,3.4,7.7,Average,6.199999999999999,False
+364,22,M,Graduate,India,6.2,WhatsApp,Yes,6.1,82.0,In Relationship,4,8,4.0,6.0,Average,5.6,True
+365,19,F,Undergraduate,Switzerland,3.5,Instagram,No,8.3,92.0,Single,2,4,,6.8,Poor,7.3,False
+366,21,M,Graduate,Turkey,5.1,Instagram,Yes,7.1,75.0,Single,3,7,3.0,6.5,Poor,4.8,True
+367,20,F,Undergraduate,USA,7.2,TikTok,Yes,5.1,52.0,In Relationship,4,9,3.8,7.0,Poor,4.6,True
+368,22,M,Graduate,Mexico,6.0,WhatsApp,Yes,6.2,46.0,Single,3,7,3.5,6.6,Average,5.9,True
+369,19,F,Undergraduate,France,4.1,Instagram,No,7.9,75.0,In Relationship,2,5,3.6,5.2,Good,5.800000000000001,False
+370,21,M,Graduate,Canada,4.9,Instagram,Yes,7.3,86.0,Single,3,7,2.6,7.5,Poor,5.0,False
+371,20,F,Undergraduate,Spain,4.7,TikTok,Yes,7.2,90.0,Single,3,7,3.5,6.6,Average,6.4,False
+372,22,M,Graduate,Denmark,3.5,Facebook,No,8.3,48.0,In Relationship,2,4,4.1,4.9,Average,6.5,False
+373,19,F,Undergraduate,Ireland,4.4,Instagram,Yes,7.5,71.0,Single,3,6,,6.1,Excellent,7.2,False
+374,21,M,Graduate,India,6.3,WhatsApp,Yes,6.0,50.0,In Relationship,4,8,4.7,8.0,Good,7.300000000000001,True
+375,20,F,Undergraduate,Switzerland,3.4,Instagram,No,8.4,47.0,Single,2,4,6.1,7.4,Good,8.3,False
+376,30,M,Graduate,Turkey,5.0,TikTok,Yes,7.2,72.0,Single,3,7,2.6,6.2,Poor,4.1,False
+377,19,F,Undergraduate,USA,7.3,Instagram,Yes,5.0,62.0,In Relationship,4,9,4.5,6.2,Good,7.2,True
+378,21,M,Graduate,Mexico,6.1,WhatsApp,Yes,6.1,64.0,Single,3,7,3.7,6.2,Good,4.800000000000001,True
+379,20,F,Undergraduate,France,4.0,Instagram,No,8.0,95.0,In Relationship,2,5,6.1,8.6,Poor,8.399999999999999,False
+380,22,M,Graduate,Canada,4.8,TikTok,Yes,7.4,47.0,Single,3,7,2.5,6.9,Excellent,5.2,False
+381,19,F,Undergraduate,Spain,4.6,Instagram,Yes,7.3,84.0,Single,3,7,2.5,6.9,Good,4.8,False
+382,29,M,Graduate,Denmark,3.4,Facebook,No,8.4,61.0,In Relationship,2,4,2.8,7.5,Excellent,5.0,False
+383,20,F,Undergraduate,Ireland,4.3,TikTok,Yes,7.6,98.0,Single,3,6,1.0,6.7,Average,3.4,False
+384,22,M,Graduate,India,6.4,WhatsApp,Yes,5.9,43.0,In Relationship,4,8,2.9,6.2,Poor,4.6,True
+385,19,F,Undergraduate,Switzerland,3.3,Instagram,No,8.5,79.0,Single,2,4,2.6,6.3,Good,5.300000000000001,False
+386,21,M,Graduate,Turkey,4.9,Instagram,Yes,7.3,42.0,Single,3,7,3.7,6.4,Poor,4.7,False
+387,20,F,Undergraduate,USA,7.4,TikTok,Yes,4.9,68.0,In Relationship,4,9,3.9,6.6,Good,4.7,True
+388,22,M,Graduate,Mexico,6.2,WhatsApp,Yes,6.0,80.0,Single,3,7,5.8,7.2,Poor,7.0,True
+389,19,F,Undergraduate,France,3.9,Instagram,No,8.1,68.0,In Relationship,2,5,4.6,6.6,Average,6.4,False
+390,21,M,Graduate,Canada,4.7,Instagram,Yes,7.5,73.0,Single,3,7,2.8,7.2,Average,4.6,False
+391,20,F,Undergraduate,Spain,4.5,TikTok,Yes,7.4,73.0,Single,3,7,2.4,6.4,Excellent,5.0,False
+392,22,M,Graduate,Denmark,3.3,Facebook,No,8.5,67.0,In Relationship,2,4,4.1,6.6,Poor,5.6,False
+393,19,F,Undergraduate,Ireland,4.2,Instagram,Yes,7.7,52.0,Single,3,6,1.9,4.5,Average,3.6,False
+394,21,M,Graduate,India,6.5,WhatsApp,Yes,5.8,54.0,In Relationship,4,8,5.7,6.6,Good,6.2,True
+395,20,F,Undergraduate,Switzerland,3.2,Instagram,No,8.6,99.0,Single,2,4,4.9,6.8,Average,6.4,False
+396,22,M,Graduate,Turkey,4.8,TikTok,Yes,7.4,62.0,Single,3,7,,7.5,Good,5.0,False
+397,19,F,Undergraduate,USA,7.5,Instagram,Yes,4.8,83.0,In Relationship,4,9,1.4,6.6,Good,1.9,True
+398,21,M,Graduate,Mexico,6.3,WhatsApp,Yes,5.9,69.35590551181102,Single,3,7,,8.6,Excellent,6.3,True
+399,20,F,Undergraduate,France,3.8,Instagram,No,8.2,43.0,In Relationship,2,5,3.4,6.4,Excellent,4.4,False
+400,22,M,Graduate,Canada,4.6,TikTok,Yes,7.6,65.0,Single,3,7,5.0,7.6,Good,5.6,False
+401,19,F,Undergraduate,Spain,4.4,Instagram,Yes,7.5,79.0,Single,3,7,1.6,5.5,Excellent,3.3,False
+402,21,M,Graduate,Denmark,3.2,Facebook,No,8.6,48.0,In Relationship,2,4,2.8,7.1,Good,3.8,False
+403,20,F,Undergraduate,Ireland,4.1,TikTok,Yes,7.8,94.0,Single,3,6,3.5,5.4,Excellent,5.9,False
+404,22,M,Graduate,India,6.6,WhatsApp,Yes,5.7,44.0,In Relationship,4,8,3.6,5.9,Good,6.2,True
+405,19,F,Undergraduate,Switzerland,3.1,Instagram,No,8.7,95.0,Single,2,4,3.0,8.4,Good,4.9,False
+406,21,M,Graduate,Turkey,4.7,Instagram,Yes,7.5,71.0,Single,3,7,4.2,6.6,Average,7.2,False
+407,20,F,Undergraduate,USA,7.6,TikTok,Yes,4.7,59.0,In Relationship,4,9,2.2,6.7,Good,3.8,True
+408,22,M,Graduate,Mexico,6.4,WhatsApp,Yes,5.8,89.0,Single,3,7,3.3,7.4,Good,5.1,True
+409,19,F,Undergraduate,France,3.7,Instagram,No,8.3,50.0,In Relationship,2,5,3.6,7.0,Average,6.6,False
+410,21,M,Graduate,Canada,4.5,Instagram,Yes,7.7,69.35590551181102,Single,3,7,4.1,6.7,Excellent,5.199999999999999,False
+411,20,F,Undergraduate,Spain,4.3,TikTok,Yes,7.6,71.0,Single,3,7,4.4,6.9,Poor,7.300000000000001,False
+412,22,M,Graduate,Denmark,3.1,Facebook,No,8.7,67.0,In Relationship,2,4,2.2,8.9,Poor,2.8000000000000003,False
+413,19,F,Undergraduate,Ireland,4.0,Instagram,Yes,7.9,61.0,Single,3,6,1.7,6.4,Average,3.3,False
+414,21,M,Graduate,India,6.7,WhatsApp,Yes,5.6,80.0,In Relationship,4,8,,6.7,Average,5.7,True
+415,20,F,Undergraduate,Switzerland,3.0,Instagram,No,8.8,56.0,Single,2,4,3.9,7.6,Poor,6.199999999999999,False
+416,22,M,Graduate,Turkey,4.6,TikTok,Yes,7.6,98.0,Single,3,7,2.6,6.6,Excellent,4.6,False
+417,19,F,Undergraduate,USA,7.7,Instagram,Yes,4.6,65.0,In Relationship,4,9,5.4,7.7,Excellent,7.7,True
+418,21,M,Graduate,Mexico,6.5,WhatsApp,Yes,5.7,83.0,Single,3,7,3.6,7.1,Good,5.0,True
+419,20,F,Undergraduate,France,3.6,Instagram,No,8.4,46.0,In Relationship,2,5,4.9,5.4,Good,6.300000000000001,False
+420,22,M,Graduate,Canada,4.4,TikTok,Yes,7.8,81.0,Single,3,7,3.6,8.1,Excellent,4.2,False
+421,19,F,Undergraduate,Spain,4.2,Instagram,Yes,7.7,96.0,Single,3,7,6.0,5.4,Average,7.4,False
+422,21,M,Graduate,Denmark,3.0,Facebook,No,8.8,65.0,In Relationship,2,4,5.6,6.8,Poor,8.399999999999999,False
+423,20,F,Undergraduate,Ireland,3.9,TikTok,Yes,8.0,64.0,Single,3,6,3.2,5.7,Poor,4.6,False
+424,22,M,Graduate,India,6.8,WhatsApp,Yes,5.5,49.0,In Relationship,4,8,4.7,6.4,Good,7.300000000000001,True
+425,19,F,Undergraduate,Switzerland,2.9,Instagram,No,8.9,98.0,Single,2,4,4.3,6.8,Excellent,6.9,False
+426,21,M,Graduate,Turkey,4.5,Instagram,Yes,7.7,84.0,Single,3,7,,6.8,Average,6.5,False
+427,20,F,Undergraduate,USA,7.8,TikTok,Yes,4.5,58.0,In Relationship,4,9,2.3,6.9,Average,4.4,True
+428,22,M,Graduate,Mexico,6.6,WhatsApp,Yes,5.6,50.0,Single,3,7,4.3,8.1,Excellent,5.0,True
+429,19,F,Undergraduate,France,3.5,Instagram,No,8.5,52.0,In Relationship,2,5,4.8,7.0,Excellent,5.6,False
+430,21,M,Graduate,Canada,4.3,Instagram,Yes,7.9,92.0,Single,3,7,1.4,6.3,Poor,2.0,False
+431,20,F,Undergraduate,Spain,4.1,TikTok,Yes,7.8,47.0,Single,3,7,2.1,7.5,Average,4.1,False
+432,22,M,Graduate,Denmark,2.9,Facebook,No,8.9,69.35590551181102,In Relationship,2,4,1.1,7.7,Average,2.7,False
+433,19,F,Undergraduate,Ireland,3.8,Instagram,Yes,8.1,43.0,Single,3,6,3.2,5.3,Poor,5.1,False
+434,21,M,Graduate,India,6.9,WhatsApp,Yes,5.4,86.0,In Relationship,4,8,4.4,7.1,Average,6.2,True
+435,20,F,Undergraduate,Switzerland,2.8,Instagram,No,9.0,69.35590551181102,Single,2,4,5.3,7.2,Good,6.699999999999999,False
+436,22,M,Graduate,Turkey,4.4,TikTok,Yes,7.8,67.0,Single,3,7,3.6,6.2,Good,5.800000000000001,False
+437,19,F,Undergraduate,USA,7.9,Instagram,Yes,4.4,50.0,In Relationship,4,9,5.5,7.9,Good,7.9,True
+438,21,M,Graduate,Mexico,6.7,WhatsApp,Yes,5.5,82.0,Single,3,7,,6.3,Good,2.3,True
+439,20,F,Undergraduate,France,3.4,Instagram,No,8.6,40.0,In Relationship,2,5,1.5,6.6,Average,2.5,False
+440,22,M,Graduate,Canada,4.2,TikTok,Yes,8.0,88.0,Single,3,7,3.4,6.3,Average,5.699999999999999,False
+441,19,F,Undergraduate,Spain,4.0,Instagram,Yes,7.9,86.0,Single,3,7,4.0,6.5,Poor,5.5,False
+442,29,M,Graduate,Denmark,2.8,Facebook,No,9.0,91.0,In Relationship,2,4,,5.4,Good,5.7,False
+443,20,F,Undergraduate,Ireland,3.7,TikTok,Yes,8.2,77.0,Single,3,6,1.0,5.1,Good,2.4,False
+444,22,M,Graduate,India,7.0,WhatsApp,Yes,5.3,63.0,In Relationship,4,8,3.4,6.6,Good,4.9,True
+445,19,F,Undergraduate,Switzerland,2.7,Instagram,No,9.1,93.0,Single,2,4,1.9,5.7,Average,2.8,False
+446,21,M,Graduate,Turkey,4.3,Instagram,Yes,7.9,99.0,Single,3,7,4.3,5.5,Average,5.4,False
+447,20,F,Undergraduate,USA,8.0,TikTok,Yes,4.3,96.0,In Relationship,4,9,3.9,6.6,Good,5.9,True
+448,22,M,Graduate,Mexico,6.8,WhatsApp,Yes,5.4,86.0,Single,3,7,2.4,5.9,Good,4.0,True
+449,19,F,Undergraduate,France,3.3,Instagram,No,8.7,69.35590551181102,In Relationship,2,5,2.9,5.2,Excellent,5.3,False
+450,21,M,Graduate,Canada,4.1,Instagram,Yes,8.1,80.0,Single,3,7,2.2,8.1,Excellent,4.800000000000001,False
+451,28,F,Undergraduate,Spain,3.9,TikTok,Yes,8.0,85.0,Single,3,7,3.4,7.5,Good,5.3,False
+452,22,M,Graduate,Denmark,2.7,Facebook,No,9.1,89.0,In Relationship,2,4,4.6,5.8,Average,7.0,False
+453,19,F,Undergraduate,Ireland,3.6,Instagram,Yes,8.3,65.0,Single,3,6,2.3,8.8,Poor,3.6,False
+454,21,M,Graduate,India,7.1,WhatsApp,Yes,5.2,69.35590551181102,In Relationship,4,8,4.1,7.5,Average,5.6,True
+455,20,F,Undergraduate,Switzerland,2.6,Instagram,No,9.2,89.0,Single,2,4,,6.2,Average,5.199999999999999,False
+456,22,M,Graduate,Turkey,4.2,TikTok,Yes,8.0,44.0,Single,3,7,,4.0,Good,4.0,False
+457,19,F,Undergraduate,USA,8.1,Instagram,Yes,4.2,59.0,In Relationship,4,9,3.4,8.8,Average,5.4,True
+458,21,M,Graduate,Mexico,6.9,WhatsApp,Yes,5.3,91.0,Single,3,7,2.3,5.1,Average,3.3,True
+459,20,F,Undergraduate,France,3.2,Instagram,No,8.8,80.0,In Relationship,2,5,,6.6,Good,4.8,False
+460,22,M,Graduate,Canada,4.0,TikTok,Yes,8.2,50.0,Single,3,7,2.1,7.5,Good,4.800000000000001,False
+461,19,F,Undergraduate,Spain,3.8,Instagram,Yes,8.1,95.0,Single,3,7,5.9,8.9,Good,8.600000000000001,False
+462,21,M,Graduate,Denmark,2.6,Facebook,No,9.2,93.0,In Relationship,2,4,3.5,7.9,Good,5.8,False
+463,20,F,Undergraduate,Ireland,3.5,TikTok,Yes,8.4,72.0,Single,3,6,2.7,7.1,Excellent,5.1,False
+464,22,M,Graduate,India,7.2,WhatsApp,Yes,5.1,89.0,In Relationship,4,8,3.8,7.1,Good,5.699999999999999,True
+465,19,F,Undergraduate,Switzerland,2.5,Instagram,No,9.3,69.35590551181102,Single,2,4,3.4,7.4,Poor,5.4,False
+466,21,M,Graduate,Turkey,4.1,Instagram,Yes,8.1,66.0,Single,3,7,3.2,6.6,Good,4.0,False
+467,20,F,Undergraduate,USA,8.2,TikTok,Yes,4.1,73.0,In Relationship,4,9,4.2,6.8,Good,5.800000000000001,True
+468,22,M,Graduate,Mexico,7.0,WhatsApp,Yes,5.2,54.0,Single,3,7,4.4,6.6,Excellent,6.0,True
+469,19,F,Undergraduate,France,3.1,Instagram,No,8.9,71.0,In Relationship,2,5,2.9,6.4,Average,5.8,False
+470,21,M,Graduate,Canada,3.9,Instagram,Yes,8.3,69.35590551181102,Single,3,7,2.8,5.7,Good,4.4,False
+471,20,F,Undergraduate,Spain,3.7,TikTok,Yes,8.2,60.0,Single,3,7,3.2,6.2,Good,5.1,False
+472,22,M,Graduate,Denmark,2.5,Facebook,No,9.3,85.0,In Relationship,2,4,0.7,6.6,Good,2.5,False
+473,19,F,Undergraduate,Ireland,3.4,Instagram,Yes,8.5,44.0,Single,3,6,1.7,6.4,Excellent,3.8,False
+474,21,M,Graduate,India,7.3,WhatsApp,Yes,5.0,45.0,In Relationship,4,8,5.1,5.5,Excellent,7.5,True
+475,20,F,Undergraduate,Switzerland,2.4,Instagram,No,9.4,77.0,Single,2,4,5.5,5.4,Good,6.6,False
+476,22,M,Graduate,Turkey,4.0,TikTok,Yes,8.2,61.0,Single,3,7,3.2,6.7,Excellent,5.0,False
+477,19,F,Undergraduate,USA,8.3,Instagram,Yes,4.0,57.0,In Relationship,4,9,4.2,7.9,Excellent,6.800000000000001,True
+478,21,M,Graduate,Mexico,7.1,WhatsApp,Yes,5.1,53.0,Single,3,7,3.9,7.4,Good,5.6,True
+479,20,F,Undergraduate,France,3.0,Instagram,No,9.0,49.0,In Relationship,2,5,7.2,6.6,Average,8.4,False
+480,22,M,Graduate,Canada,3.8,TikTok,Yes,8.4,85.0,Single,3,7,4.8,5.5,Average,6.9,False
+481,27,F,Undergraduate,Spain,3.6,Instagram,Yes,8.3,52.0,Single,3,7,3.3,7.4,Good,5.9,False
+482,21,M,Graduate,Denmark,2.4,Facebook,No,9.4,70.0,In Relationship,2,4,2.4,5.5,Good,3.1,False
+483,20,F,Undergraduate,Ireland,3.3,TikTok,Yes,8.6,69.0,Single,3,6,1.6,6.3,Poor,4.0,False
+484,22,M,Graduate,India,7.4,WhatsApp,Yes,4.9,42.0,In Relationship,4,8,3.7,7.1,Good,6.300000000000001,True
+485,19,F,Undergraduate,Switzerland,2.3,Instagram,No,9.5,69.0,Single,2,4,2.6,5.5,Excellent,4.3,False
+486,21,M,Graduate,Turkey,3.9,Instagram,Yes,8.3,45.0,Single,3,7,1.8,6.6,Average,4.8,False
+487,20,F,Undergraduate,USA,8.4,TikTok,Yes,3.9,68.0,In Relationship,4,9,2.7,5.2,Excellent,5.2,True
+488,22,M,Graduate,Mexico,7.2,WhatsApp,Yes,5.0,47.0,Single,3,7,2.2,5.9,Good,4.6,True
+489,19,F,Undergraduate,France,2.9,Instagram,No,9.1,83.0,In Relationship,2,5,5.5,6.8,Good,7.9,False
+490,21,M,Graduate,Canada,3.7,Instagram,Yes,8.5,84.0,Single,3,7,4.6,4.9,Poor,5.5,False
+491,20,F,Undergraduate,Spain,3.5,TikTok,Yes,8.4,82.0,Single,3,7,3.5,6.9,Good,4.5,False
+492,22,M,Graduate,Denmark,2.3,Facebook,No,9.5,83.0,In Relationship,2,4,5.3,6.5,Average,7.0,False
+493,19,F,Undergraduate,Ireland,3.2,Instagram,Yes,8.7,72.0,Single,3,6,3.6,6.6,Poor,4.8,False
+494,21,M,Graduate,India,7.5,WhatsApp,Yes,4.8,56.0,In Relationship,4,8,2.5,6.7,Excellent,4.0,True
+495,20,F,Undergraduate,Switzerland,2.2,Instagram,No,9.6,87.0,Single,2,4,5.3,7.9,Excellent,8.0,False
+496,22,M,Graduate,Turkey,3.8,TikTok,Yes,8.4,50.0,Single,3,7,,6.6,Good,6.699999999999999,False
+497,19,F,Undergraduate,USA,8.5,Instagram,Yes,3.8,69.35590551181102,In Relationship,4,9,2.3,6.1,Good,4.4,True
+498,21,M,Graduate,Mexico,7.3,WhatsApp,Yes,4.9,89.0,Single,3,7,3.3,6.6,Good,5.9,True
+499,20,F,Undergraduate,France,2.8,Instagram,No,9.2,50.0,In Relationship,2,5,2.4,7.0,Poor,4.9,False
+500,22,M,Graduate,Canada,3.6,TikTok,Yes,8.6,70.0,Single,3,7,1.8,6.5,Average,3.4000000000000004,False
+501,19,F,Undergraduate,Brazil,6.2,WhatsApp,Yes,6.3,67.0,Single,3,7,4.6,6.5,Average,5.6,True
+502,21,M,Graduate,China,4.5,WeChat,No,7.8,83.0,In Relationship,2,5,5.8,5.8,Good,7.6,False
+503,20,F,Undergraduate,Netherlands,3.8,Instagram,No,8.2,45.0,Single,2,4,1.8,5.8,Average,4.1,False
+504,22,M,Graduate,New Zealand,4.7,Instagram,Yes,7.5,80.0,In Relationship,3,6,4.2,5.1,Poor,5.800000000000001,False
+505,19,F,Undergraduate,Singapore,5.1,TikTok,Yes,7.0,55.0,Single,3,7,2.7,8.2,Average,4.9,True
+506,21,M,Graduate,Malaysia,5.5,WhatsApp,Yes,6.8,43.0,Single,3,7,2.9,5.3,Excellent,3.6,True
+507,20,F,Undergraduate,UAE,6.5,Instagram,Yes,6.5,74.0,In Relationship,4,8,,5.8,Average,5.199999999999999,True
+508,22,M,Graduate,Poland,4.2,Facebook,No,7.9,99.0,Single,2,5,2.5,5.8,Excellent,5.0,False
+509,19,F,Undergraduate,India,6.8,WhatsApp,Yes,6.0,87.0,In Relationship,4,8,3.6,7.4,Good,5.9,True
+510,21,M,Graduate,Canada,4.8,Instagram,Yes,7.4,95.0,Single,3,6,2.5,6.2,Excellent,5.4,False
+511,20,F,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,98.0,Single,3,7,3.8,7.7,Average,6.4,True
+512,22,M,Graduate,China,4.4,WeChat,No,7.9,65.0,In Relationship,2,5,3.4,6.6,Average,6.199999999999999,False
+513,19,F,Undergraduate,Netherlands,3.7,TikTok,No,8.3,96.0,Single,2,4,3.2,6.8,Excellent,6.0,False
+514,21,M,Graduate,New Zealand,4.6,Instagram,Yes,7.6,51.0,In Relationship,3,6,2.4,5.7,Excellent,4.9,False
+515,20,F,Undergraduate,Singapore,5.2,TikTok,Yes,6.9,50.0,Single,3,7,2.8,8.6,Good,5.0,True
+516,30,M,Graduate,Malaysia,5.6,WhatsApp,Yes,6.7,76.0,Single,3,7,4.4,5.3,Good,4.9,True
+517,19,F,Undergraduate,UAE,6.6,Instagram,Yes,6.4,64.0,In Relationship,4,8,,6.8,Excellent,5.8,True
+518,21,M,Graduate,Poland,4.1,Facebook,No,8.0,57.0,Single,2,5,2.3,7.1,Good,4.199999999999999,False
+519,20,F,Undergraduate,India,6.9,WhatsApp,Yes,5.9,58.0,In Relationship,4,8,,6.9,Average,4.9,True
+520,30,M,Graduate,Canada,4.7,TikTok,Yes,7.5,62.0,Single,3,6,4.4,6.3,Excellent,5.7,False
+521,19,F,Undergraduate,Brazil,6.0,WhatsApp,Yes,6.5,94.0,Single,3,7,1.5,6.4,Excellent,4.4,True
+522,21,M,Graduate,China,4.3,WeChat,No,8.0,77.0,In Relationship,2,5,4.2,6.5,Good,6.9,False
+523,20,F,Undergraduate,Netherlands,3.6,Instagram,No,8.4,93.0,Single,2,4,2.7,6.4,Good,5.300000000000001,False
+524,30,M,Graduate,New Zealand,4.5,Facebook,Yes,7.7,57.0,In Relationship,3,6,4.2,7.5,Average,5.7,False
+525,19,F,Undergraduate,Singapore,5.3,TikTok,Yes,6.8,65.0,Single,3,7,2.6,8.7,Average,3.1,True
+526,21,M,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,45.0,Single,3,7,1.3,5.9,Good,2.0,True
+527,28,F,Undergraduate,UAE,6.7,Instagram,Yes,6.3,69.35590551181102,In Relationship,4,8,1.5,5.1,Average,2.8,True
+528,30,M,Graduate,Poland,4.0,Facebook,No,8.1,83.0,Single,2,5,,6.4,Excellent,4.1,False
+529,19,F,Undergraduate,India,7.0,WhatsApp,Yes,5.8,90.0,In Relationship,4,8,3.8,9.1,Average,4.3,True
+530,21,M,Graduate,Canada,4.6,Instagram,Yes,7.6,68.0,Single,3,6,2.4,5.7,Poor,5.199999999999999,False
+531,20,F,Undergraduate,Brazil,5.9,TikTok,Yes,6.6,98.0,Single,3,7,4.3,8.1,Average,6.6,True
+532,22,M,Graduate,China,4.2,WeChat,No,8.1,73.0,In Relationship,2,5,1.5,8.2,Poor,2.8,False
+533,19,F,Undergraduate,Netherlands,3.5,Instagram,No,8.5,56.0,Single,2,4,3.4,5.9,Average,4.2,False
+534,21,M,Graduate,New Zealand,4.4,Facebook,Yes,7.8,82.0,In Relationship,3,6,2.0,7.1,Excellent,3.8,False
+535,20,F,Undergraduate,Singapore,5.4,TikTok,Yes,6.7,82.0,Single,3,7,,8.1,Poor,3.2,True
+536,22,M,Graduate,Malaysia,5.8,WhatsApp,Yes,6.5,92.0,Single,3,7,3.6,6.1,Excellent,6.4,True
+537,19,F,Undergraduate,UAE,6.8,Instagram,Yes,6.2,69.35590551181102,In Relationship,4,8,2.5,6.3,Good,4.0,True
+538,21,M,Graduate,Poland,3.9,Facebook,No,8.2,41.0,Single,2,5,3.0,5.9,Excellent,4.5,False
+539,20,F,Undergraduate,India,7.1,WhatsApp,Yes,5.7,73.0,In Relationship,4,8,4.7,5.5,Excellent,6.2,True
+540,22,M,Graduate,Canada,4.5,TikTok,Yes,7.7,69.35590551181102,Single,3,6,2.8,5.9,Good,3.5,False
+541,19,F,Undergraduate,Brazil,5.8,WhatsApp,Yes,6.7,47.0,Single,3,7,4.5,5.3,Good,6.6,True
+542,21,M,Graduate,China,4.1,WeChat,No,8.2,52.0,In Relationship,2,5,2.1,6.6,Good,4.4,False
+543,20,F,Undergraduate,Netherlands,3.4,Instagram,No,8.6,81.0,Single,2,4,,5.7,Good,6.3,False
+544,22,M,Graduate,New Zealand,4.3,Instagram,Yes,7.9,47.0,In Relationship,3,6,5.2,6.7,Excellent,6.0,False
+545,19,F,Undergraduate,Singapore,5.5,TikTok,Yes,6.6,69.0,Single,3,7,0.5,4.9,Excellent,2.4,True
+546,21,M,Graduate,Malaysia,5.9,WhatsApp,Yes,6.4,71.0,Single,3,7,,6.8,Average,4.4,True
+547,20,F,Undergraduate,UAE,6.9,Instagram,Yes,6.1,69.35590551181102,In Relationship,4,8,4.2,6.6,Good,6.9,True
+548,22,M,Graduate,Poland,3.8,Facebook,No,8.3,86.0,Single,2,5,3.3,6.6,Average,4.699999999999999,False
+549,19,F,Undergraduate,India,7.2,WhatsApp,Yes,5.6,69.0,In Relationship,4,8,3.9,6.9,Average,5.3,True
+550,21,M,Graduate,Canada,4.4,Instagram,Yes,7.8,40.0,Single,3,6,2.8,7.7,Average,4.8,False
+551,20,F,Undergraduate,Brazil,5.7,TikTok,Yes,6.8,82.0,Single,3,7,3.6,5.3,Average,5.7,True
+552,22,M,Graduate,China,4.0,WeChat,No,8.3,69.35590551181102,In Relationship,2,5,,8.2,Good,5.0,False
+553,19,F,Undergraduate,Netherlands,3.3,Instagram,No,8.7,56.0,Single,2,4,4.9,6.6,Average,6.5,False
+554,21,M,Graduate,New Zealand,4.2,Facebook,Yes,8.0,98.0,In Relationship,3,6,3.8,5.8,Good,5.5,False
+555,20,F,Undergraduate,Singapore,5.6,TikTok,Yes,6.5,59.0,Single,3,7,3.9,6.4,Good,6.6,True
+556,22,M,Graduate,Malaysia,6.0,WhatsApp,Yes,6.3,63.0,Single,3,7,3.0,7.1,Average,4.7,True
+557,19,F,Undergraduate,UAE,7.0,Instagram,Yes,6.0,89.0,In Relationship,4,8,2.9,6.6,Good,5.699999999999999,True
+558,21,M,Graduate,Poland,3.7,Facebook,No,8.4,61.0,Single,2,5,3.0,7.0,Average,4.8,False
+559,20,F,Undergraduate,India,7.3,WhatsApp,Yes,5.5,68.0,In Relationship,4,8,,5.6,Average,6.9,True
+560,22,M,Graduate,Canada,4.3,TikTok,Yes,7.9,61.0,Single,3,6,3.0,6.6,Poor,5.6,False
+561,19,F,Undergraduate,Brazil,5.6,WhatsApp,Yes,6.9,83.0,Single,3,7,3.8,5.1,Poor,5.199999999999999,True
+562,21,M,Graduate,China,3.9,WeChat,No,8.4,48.0,In Relationship,2,5,6.0,6.4,Good,8.7,False
+563,20,F,Undergraduate,Netherlands,3.2,Instagram,No,8.8,76.0,Single,2,4,4.5,5.6,Good,5.3,False
+564,22,M,Graduate,New Zealand,4.1,Instagram,Yes,8.1,49.0,In Relationship,3,6,3.1,5.8,Average,5.9,False
+565,19,F,Undergraduate,Singapore,5.7,TikTok,Yes,6.4,69.35590551181102,Single,3,7,4.9,7.7,Good,7.0,True
+566,21,M,Graduate,Malaysia,6.1,WhatsApp,Yes,6.2,76.0,Single,3,7,3.0,7.6,Average,3.6,True
+567,20,F,Undergraduate,UAE,7.1,Instagram,Yes,5.9,67.0,In Relationship,4,8,1.1,7.1,Average,3.2,True
+568,22,M,Graduate,Poland,3.6,Facebook,No,8.5,67.0,Single,2,5,2.3,5.4,Average,5.199999999999999,False
+569,19,F,Undergraduate,India,7.4,WhatsApp,Yes,5.4,81.0,In Relationship,4,8,1.3,6.2,Good,2.0,True
+570,21,M,Graduate,Canada,4.2,Instagram,Yes,8.0,82.0,Single,3,6,3.1,7.7,Excellent,5.0,False
+571,20,F,Undergraduate,Spain,6.1,Instagram,Yes,7.2,60.0,Single,4,7,3.5,6.6,Good,5.9,True
+572,23,M,Graduate,Denmark,3.8,Twitter,No,7.8,63.0,In Relationship,2,4,5.5,8.8,Excellent,8.0,False
+573,19,F,Undergraduate,Ireland,5.5,TikTok,Yes,6.8,81.0,Single,4,8,3.9,6.9,Poor,5.4,True
+574,22,M,Graduate,India,7.2,Facebook,Yes,5.9,99.0,Single,5,9,3.2,6.6,Good,4.2,True
+575,21,F,Undergraduate,Switzerland,4.2,Instagram,No,7.5,79.0,In Relationship,2,5,4.5,6.2,Excellent,5.1,False
+576,32,M,Graduate,Turkey,6.8,TikTok,Yes,6.2,41.0,Single,4,8,0.8,6.6,Excellent,2.7,True
+577,20,F,Undergraduate,USA,5.9,Instagram,Yes,6.7,94.0,In Relationship,3,7,3.8,6.3,Average,5.4,True
+578,22,M,Graduate,Mexico,6.5,Facebook,Yes,6.1,47.0,Single,4,8,4.4,6.6,Average,7.300000000000001,True
+579,19,F,Undergraduate,France,4.7,Twitter,No,7.4,69.35590551181102,Single,2,5,1.7,7.5,Average,2.4,False
+580,23,M,Graduate,Canada,5.2,Instagram,Yes,7.0,66.0,In Relationship,3,6,4.9,5.7,Excellent,7.1000000000000005,True
+581,21,F,Undergraduate,UK,6.3,TikTok,Yes,6.4,61.0,Single,4,8,3.9,5.2,Good,4.5,True
+582,24,M,Graduate,Italy,4.9,Facebook,No,7.3,76.0,In Relationship,2,5,3.0,4.7,Good,3.9,False
+583,20,F,Undergraduate,Russia,6.7,Instagram,Yes,6.0,66.0,Single,4,8,4.3,6.6,Good,5.9,True
+584,22,M,Graduate,China,5.8,WeChat,Yes,6.5,69.35590551181102,In Relationship,3,7,,5.4,Average,7.800000000000001,True
+585,19,F,Undergraduate,Japan,4.5,Twitter,No,7.6,68.0,Single,2,4,3.7,4.3,Good,5.9,False
+586,23,M,Graduate,Poland,6.4,Facebook,Yes,6.3,42.0,Single,4,8,3.8,6.9,Good,6.6,True
+587,21,F,Undergraduate,Finland,4.1,Instagram,No,7.7,83.0,In Relationship,2,5,,9.0,Poor,5.0,False
+588,24,M,Graduate,Spain,6.6,TikTok,Yes,6.2,52.0,Single,4,8,2.5,6.5,Good,5.4,True
+589,20,F,Undergraduate,Denmark,4.4,Instagram,No,7.4,84.0,In Relationship,2,5,4.5,7.3,Average,7.2,False
+590,30,M,Graduate,Ireland,5.7,Twitter,Yes,6.8,49.0,Single,3,7,2.5,6.6,Average,4.5,True
+591,19,F,Undergraduate,India,7.0,Instagram,Yes,5.8,75.0,Single,5,9,3.6,6.4,Good,6.2,True
+592,23,M,Graduate,Switzerland,4.3,Facebook,No,7.5,69.35590551181102,In Relationship,2,5,2.9,6.6,Excellent,5.0,False
+593,21,F,Undergraduate,Turkey,6.9,TikTok,Yes,6.1,93.0,Single,4,8,4.1,6.2,Good,4.8,True
+594,24,M,Graduate,USA,5.6,Instagram,Yes,6.9,95.0,In Relationship,3,7,3.9,6.6,Poor,6.3,True
+595,20,F,Undergraduate,Mexico,6.2,Facebook,Yes,6.3,94.0,Single,4,8,4.7,6.8,Poor,5.4,True
+596,29,M,Undergraduate,France,5.8,Instagram,Yes,6.7,66.0,Single,3,7,2.9,5.8,Excellent,4.9,True
+597,23,F,Graduate,Canada,4.9,TikTok,No,7.3,73.0,In Relationship,2,5,3.2,7.5,Excellent,5.5,False
+598,20,M,Undergraduate,UK,6.4,Facebook,Yes,6.2,90.0,Single,4,8,2.3,6.3,Good,3.0,True
+599,22,F,Graduate,Italy,5.1,Twitter,No,7.1,40.0,In Relationship,2,5,3.0,5.7,Excellent,4.1,True
+600,19,M,Undergraduate,Russia,6.7,Instagram,Yes,6.0,71.0,Single,4,8,4.0,7.0,Excellent,6.8,True
+601,24,F,Graduate,China,5.5,WeChat,Yes,6.8,64.0,In Relationship,3,7,4.4,5.6,Average,6.4,True
+602,21,M,Undergraduate,Japan,4.3,Twitter,No,7.6,68.0,Single,2,4,2.4,6.5,Good,3.5,False
+603,23,F,Graduate,Poland,6.2,Instagram,Yes,6.4,46.0,Single,4,8,4.5,6.5,Good,6.7,True
+604,20,M,Undergraduate,Finland,4.5,Facebook,No,7.4,88.0,In Relationship,2,5,5.1,7.6,Poor,7.1,False
+605,22,F,Graduate,Spain,6.3,TikTok,Yes,6.3,42.0,Single,4,8,4.0,7.0,Excellent,5.8,True
+606,19,M,Undergraduate,Denmark,4.7,Instagram,No,7.2,59.0,In Relationship,2,5,5.8,6.5,Poor,8.7,False
+607,24,F,Graduate,Ireland,5.9,Twitter,Yes,6.6,59.0,Single,3,7,2.6,7.3,Good,4.800000000000001,True
+608,21,M,Undergraduate,India,7.1,Facebook,Yes,5.7,92.0,Single,5,9,2.0,7.9,Poor,3.4,True
+609,23,F,Graduate,Switzerland,4.4,Instagram,No,7.4,69.0,In Relationship,2,5,1.4,7.1,Average,3.9,False
+610,20,M,Undergraduate,Turkey,6.6,TikTok,Yes,6.2,74.0,Single,4,8,5.3,6.5,Average,8.0,True
+611,30,F,Graduate,USA,5.4,Instagram,Yes,6.9,74.0,In Relationship,3,7,4.3,5.2,Poor,5.1,True
+612,19,M,Undergraduate,Mexico,6.5,Facebook,Yes,6.1,88.0,Single,4,8,3.4,5.4,Good,4.4,True
+613,24,F,Graduate,France,4.8,Twitter,No,7.3,78.0,In Relationship,2,5,3.8,6.2,Poor,4.8,False
+614,21,M,Undergraduate,Canada,5.7,Instagram,Yes,6.7,66.0,Single,3,7,2.1,5.9,Good,4.300000000000001,True
+615,23,F,Graduate,UK,6.1,TikTok,Yes,6.4,65.0,Single,4,8,6.4,6.3,Good,8.4,True
+616,20,M,Undergraduate,Italy,4.6,Facebook,No,7.2,53.0,In Relationship,2,5,,6.6,Good,5.7,False
+617,22,F,Graduate,Russia,6.8,Instagram,Yes,5.9,56.0,Single,5,9,3.6,6.6,Good,6.5,True
+618,19,M,Undergraduate,China,5.6,WeChat,Yes,6.8,57.0,In Relationship,3,7,4.4,6.6,Excellent,6.800000000000001,True
+619,24,F,Graduate,Japan,4.2,Twitter,No,7.5,84.0,Single,2,4,4.1,7.0,Average,4.9,False
+620,21,M,Undergraduate,Poland,6.3,TikTok,Yes,6.3,91.0,Single,4,8,3.8,6.6,Good,5.199999999999999,True
+621,23,F,Graduate,Finland,4.4,Instagram,No,7.4,68.0,In Relationship,2,5,2.6,4.5,Average,4.2,False
+622,20,M,Undergraduate,Spain,6.5,Facebook,Yes,6.2,69.35590551181102,Single,4,8,4.1,5.6,Average,5.6,True
+623,22,F,Graduate,Denmark,4.6,Twitter,No,7.3,92.0,In Relationship,2,5,,6.4,Good,8.0,False
+624,19,M,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,66.0,Single,3,7,5.1,5.3,Good,7.8,True
+625,24,F,Graduate,India,7.0,TikTok,Yes,5.8,69.35590551181102,Single,5,9,,7.1,Good,6.7,True
+626,21,M,Undergraduate,Switzerland,4.5,Facebook,No,7.3,43.0,In Relationship,2,5,2.9,8.0,Excellent,4.8,False
+627,23,F,Graduate,Turkey,6.7,Instagram,Yes,6.1,40.0,Single,4,8,2.3,7.7,Excellent,4.8,True
+628,20,M,Undergraduate,USA,5.5,Twitter,Yes,6.8,89.0,In Relationship,3,7,3.3,6.3,Good,4.8,True
+629,22,F,Graduate,Mexico,6.4,Facebook,Yes,6.2,40.0,Single,4,8,3.6,8.0,Good,4.5,True
+630,19,M,Undergraduate,France,4.7,Instagram,No,7.2,97.0,In Relationship,2,5,4.8,6.6,Good,6.5,False
+631,24,F,Graduate,Canada,5.6,TikTok,Yes,6.7,65.0,Single,3,7,1.5,6.2,Average,2.1,True
+632,21,M,Undergraduate,UK,6.2,Facebook,Yes,6.3,84.0,Single,4,8,5.3,5.9,Good,8.2,True
+633,23,F,Graduate,Italy,4.8,Twitter,No,7.1,59.0,In Relationship,2,5,3.3,6.2,Average,4.0,False
+634,20,M,Undergraduate,Russia,6.9,Instagram,Yes,5.9,91.0,Single,5,9,3.0,6.1,Excellent,4.6,True
+635,22,F,Graduate,China,5.7,WeChat,Yes,6.7,62.0,In Relationship,3,7,2.3,6.7,Good,4.1,True
+636,19,M,Undergraduate,Japan,4.4,Twitter,No,7.4,49.0,Single,2,4,1.5,6.7,Average,4.5,False
+637,24,F,Graduate,Poland,6.1,TikTok,Yes,6.4,98.0,Single,4,8,,6.5,Average,5.4,True
+638,21,M,Undergraduate,Finland,4.3,Instagram,No,7.5,50.0,In Relationship,2,5,3.6,6.9,Good,4.4,False
+639,23,F,Graduate,Spain,6.4,Facebook,Yes,6.2,80.0,Single,4,8,2.0,7.7,Poor,2.5,True
+640,20,M,Undergraduate,Denmark,4.5,Twitter,No,7.3,80.0,In Relationship,2,5,1.9,7.4,Poor,2.8,False
+641,22,F,Graduate,Ireland,5.9,Instagram,Yes,6.5,44.0,Single,3,7,,5.0,Average,4.1,True
+642,19,M,Undergraduate,India,7.2,TikTok,Yes,5.7,97.0,Single,5,9,5.5,3.9,Average,7.6,True
+643,24,F,Graduate,Switzerland,4.6,Facebook,No,7.2,40.0,In Relationship,2,5,3.2,7.4,Average,4.2,False
+644,21,M,Undergraduate,Turkey,6.8,Instagram,Yes,6.0,56.0,Single,4,8,1.7,5.1,Good,2.3,True
+645,23,F,Graduate,USA,5.3,Twitter,Yes,6.8,61.0,In Relationship,3,7,3.2,6.3,Good,5.800000000000001,True
+646,22,M,Graduate,Mexico,6.3,Facebook,Yes,6.2,73.0,Single,4,8,3.2,5.3,Excellent,4.6,True
+647,20,F,Undergraduate,France,4.8,Instagram,No,7.1,95.0,In Relationship,2,5,0.3,4.7,Good,1.7,False
+648,23,M,Graduate,Canada,5.7,TikTok,Yes,6.6,84.0,Single,3,7,3.4,7.0,Good,4.7,True
+649,21,F,Undergraduate,UK,6.2,Twitter,Yes,6.3,69.35590551181102,Single,4,8,3.2,7.3,Good,6.1,True
+650,24,M,Graduate,Italy,4.7,Facebook,No,7.2,69.35590551181102,In Relationship,2,5,4.3,6.6,Poor,5.2,False
+651,19,F,Undergraduate,Russia,6.8,Instagram,Yes,5.9,43.0,Single,5,9,5.7,3.9,Poor,8.4,True
+652,22,M,Graduate,China,5.6,WeChat,Yes,6.7,44.0,In Relationship,3,7,4.9,6.0,Average,7.300000000000001,True
+653,20,F,Undergraduate,Japan,4.3,Twitter,No,7.5,50.0,Single,2,4,3.2,6.9,Good,3.9,False
+654,23,M,Graduate,Poland,6.2,TikTok,Yes,6.3,95.0,Single,4,8,2.2,5.0,Poor,5.2,True
+655,21,F,Undergraduate,Finland,4.4,Instagram,No,7.4,90.0,In Relationship,2,5,6.6,6.7,Excellent,7.8,False
+656,24,M,Graduate,Spain,6.5,Facebook,Yes,6.1,60.0,Single,4,8,3.6,6.6,Average,4.3,True
+657,19,F,Undergraduate,Denmark,4.6,Twitter,No,7.3,69.35590551181102,In Relationship,2,5,3.5,7.1,Excellent,6.1,False
+658,22,M,Graduate,Ireland,5.8,Instagram,Yes,6.6,51.0,Single,3,7,3.5,6.6,Average,5.8,True
+659,20,F,Undergraduate,India,7.1,TikTok,Yes,5.8,65.0,Single,5,9,3.7,5.5,Good,5.7,True
+660,23,M,Graduate,Switzerland,4.5,Facebook,No,7.3,90.0,In Relationship,2,5,3.3,7.7,Poor,4.2,False
+661,21,F,Undergraduate,Turkey,6.7,Instagram,Yes,6.0,69.35590551181102,Single,4,8,2.8,6.3,Poor,4.5,True
+662,24,M,Graduate,USA,5.4,Twitter,Yes,6.8,84.0,In Relationship,3,7,2.8,6.5,Excellent,5.3,True
+663,19,F,Undergraduate,Mexico,6.4,TikTok,Yes,6.2,99.0,Single,4,8,,5.6,Good,4.8,True
+664,22,M,Graduate,France,4.7,Facebook,No,7.2,46.0,In Relationship,2,5,2.8,6.1,Good,4.1,False
+665,20,F,Undergraduate,Canada,5.6,Instagram,Yes,6.7,86.0,Single,3,7,2.6,5.6,Good,3.1,True
+666,23,M,Graduate,UK,6.3,Twitter,Yes,6.2,94.0,Single,4,8,3.6,6.3,Poor,4.5,True
+667,29,F,Undergraduate,Italy,4.8,TikTok,No,7.1,46.0,In Relationship,2,5,3.2,8.2,Poor,5.9,False
+668,24,M,Graduate,Russia,6.9,Instagram,Yes,5.9,65.0,Single,5,9,5.3,5.1,Good,6.9,True
+669,19,F,Undergraduate,China,5.7,WeChat,Yes,6.7,79.0,In Relationship,3,7,0.3,4.9,Good,3.3,True
+670,22,M,Graduate,Japan,4.4,Twitter,No,7.4,44.0,Single,2,4,4.8,8.0,Good,6.3,False
+671,20,F,Undergraduate,Poland,6.1,Facebook,Yes,6.4,60.0,Single,4,8,5.0,6.3,Good,7.3,True
+672,23,M,Graduate,Finland,4.3,Instagram,No,7.5,53.0,In Relationship,2,5,1.0,6.6,Good,2.2,False
+673,21,F,Undergraduate,Spain,6.4,TikTok,Yes,6.2,43.0,Single,4,8,3.1,7.5,Good,4.5,True
+674,24,M,Graduate,Denmark,4.5,Twitter,No,7.3,69.35590551181102,In Relationship,2,5,3.1,5.9,Good,4.1,False
+675,19,F,Undergraduate,Ireland,5.9,Instagram,Yes,6.5,81.0,Single,3,7,1.8,8.3,Average,3.2,True
+676,22,M,Graduate,India,7.2,Facebook,Yes,5.7,59.0,Single,5,9,2.6,7.2,Poor,4.5,True
+677,20,F,Undergraduate,Switzerland,4.6,TikTok,No,7.2,54.0,In Relationship,2,5,2.2,6.0,Poor,5.2,False
+678,23,M,Graduate,Turkey,6.8,Instagram,Yes,6.0,69.35590551181102,Single,4,8,5.6,8.7,Good,7.8,True
+679,21,F,Undergraduate,USA,5.3,Twitter,Yes,6.8,91.0,In Relationship,3,7,4.6,5.9,Average,5.6,True
+680,24,M,Graduate,Mexico,6.2,Facebook,Yes,6.3,84.0,Single,4,8,5.0,7.2,Average,5.6,True
+681,19,F,Undergraduate,France,4.7,Instagram,No,7.2,68.0,In Relationship,2,5,4.4,6.8,Average,5.2,False
+682,22,M,Graduate,Canada,5.8,TikTok,Yes,6.6,47.0,Single,3,7,2.1,7.8,Poor,4.0,True
+683,20,F,Undergraduate,UK,6.1,Twitter,Yes,6.4,80.0,Single,4,8,2.9,6.6,Good,5.3,True
+684,23,M,Graduate,Italy,4.8,Facebook,No,7.1,87.0,In Relationship,2,5,4.1,6.5,Excellent,7.0,False
+685,21,F,Undergraduate,Russia,6.7,Instagram,Yes,6.0,58.0,Single,5,9,2.0,5.7,Poor,2.5,True
+686,24,M,Graduate,China,5.5,WeChat,Yes,6.8,87.0,In Relationship,3,7,4.4,7.0,Good,6.2,True
+687,19,F,Undergraduate,Japan,4.2,Twitter,No,7.5,78.0,Single,2,4,3.2,5.8,Good,4.9,False
+688,22,M,Graduate,Poland,6.3,TikTok,Yes,6.2,85.0,Single,4,8,3.1,8.5,Poor,5.2,True
+689,20,F,Undergraduate,Finland,4.4,Instagram,No,7.4,67.0,In Relationship,2,5,,6.6,Excellent,6.300000000000001,False
+690,23,M,Graduate,Spain,6.5,Facebook,Yes,6.1,85.0,Single,4,8,4.0,6.1,Poor,6.2,True
+691,21,F,Undergraduate,Denmark,4.6,Twitter,No,7.3,96.0,In Relationship,2,5,3.1,6.7,Good,5.2,False
+692,24,M,Graduate,Ireland,5.9,Instagram,Yes,6.5,69.35590551181102,Single,3,7,4.9,5.2,Good,5.7,True
+693,19,F,Undergraduate,India,7.0,TikTok,Yes,5.8,43.0,Single,5,9,2.2,5.5,Average,4.7,True
+694,22,M,Graduate,Switzerland,4.5,Facebook,No,7.3,97.0,In Relationship,2,5,4.2,7.7,Poor,5.0,False
+695,20,F,Undergraduate,Turkey,6.6,Instagram,Yes,6.1,54.0,Single,4,8,4.2,5.8,Excellent,6.4,True
+696,23,M,Graduate,USA,5.5,Twitter,Yes,6.7,74.0,In Relationship,3,7,3.1,5.5,Good,4.6,True
+697,21,F,Undergraduate,Mexico,6.3,TikTok,Yes,6.2,76.0,Single,4,8,3.9,7.0,Average,5.7,True
+698,24,M,Graduate,France,4.8,Facebook,No,7.1,40.0,In Relationship,2,5,2.0,7.7,Average,4.8,False
+699,19,F,Undergraduate,Canada,5.7,Instagram,Yes,6.6,42.0,Single,3,7,4.6,7.2,Average,7.3,True
+700,22,M,Graduate,UK,6.2,Twitter,Yes,6.3,86.0,Single,4,8,3.3,7.5,Excellent,5.8,True
+701,20,F,Undergraduate,Italy,4.7,TikTok,No,7.2,69.35590551181102,In Relationship,2,5,2.9,5.7,Good,4.7,False
+702,23,M,Graduate,Russia,6.8,Instagram,Yes,5.9,66.0,Single,5,9,4.8,5.1,Good,7.1,True
+703,21,F,Undergraduate,China,5.6,WeChat,Yes,6.7,79.0,In Relationship,3,7,2.7,8.0,Average,4.5,True
+704,24,M,Graduate,Japan,4.3,Twitter,No,7.5,75.0,Single,2,4,1.8,6.2,Good,4.5,False
+705,19,F,Undergraduate,Poland,6.2,Facebook,Yes,6.3,73.0,Single,4,8,1.6,6.2,Good,3.1,True
