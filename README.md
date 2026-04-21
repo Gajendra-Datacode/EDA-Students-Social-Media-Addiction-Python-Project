@@ -1,6 +1,6 @@
-# 📱 Students' Social Media Addiction Analysis
+#  Students' Social Media Addiction Analysis
 
-## 🧐 Project Overview
+##  Project Overview
 This project focuses on the critical issue of social media addiction in the student population. It involves taking raw, uncleaned survey or usage data, processing it into a usable format, and preparing it for meaningful analysis. The ultimate goal is to generate insights that can be summarized in a comprehensive report.
 
 ### Key Objectives:
@@ -10,7 +10,7 @@ This project focuses on the critical issue of social media addiction in the stud
 
 ---
 
-## 📊 Students' Social Media Addiction Dataset
+##  Students' Social Media Addiction Dataset
 
 ### Overview
 This dataset contains information on 705 students globally, exploring the relationship between social media usage, academic performance, and mental well-being. It captures demographic details alongside usage patterns across various platforms like Instagram, TikTok, and Twitter.
@@ -43,7 +43,7 @@ This dataset contains information on 705 students globally, exploring the relati
 
 ---
 
-## 🛠️ Data Analysis & Technical Summary
+##  Data Analysis & Technical Summary
 This project involves a comprehensive data cleaning and exploratory data analysis (EDA) pipeline.
 
 * [View Data Cleaning Code](./Project_code.ipynb)
@@ -66,7 +66,7 @@ This project involves a comprehensive data cleaning and exploratory data analysi
 
 ---
 
-## ✅ Cleaned Dataset Summary
+##  Cleaned Dataset Summary
 * [Download Cleaned CSV File](./Clean_Students_Social_Media_Addiction_File.csv)
 
 ### 1. Data Integrity & Cleaning
@@ -84,7 +84,7 @@ This project involves a comprehensive data cleaning and exploratory data analysi
 
 ---
 
-## 📝 Report
+##  Report
 
 ### Core Objectives
 The study analyzes how usage patterns correlate with:
@@ -106,5 +106,5 @@ The study analyzes how usage patterns correlate with:
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 Social media addiction is a complex issue influenced by various factors. This project emphasizes the necessity of balanced digital usage and demonstrates the power of data analytics in understanding modern social challenges.
