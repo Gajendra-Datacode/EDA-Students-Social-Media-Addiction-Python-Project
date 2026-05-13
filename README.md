@@ -8,6 +8,10 @@ This project focuses on the critical issue of social media addiction in the stud
 * **Methodology Documentation:** Provide transparent, reproducible code that details the exact steps taken to clean the data.
 * **Analysis & Reporting:** Present the final findings, statistical summaries, and conclusions in a polished PDF report.
 
+## 🔗 Project Resources
+
+- 💻 Source Code: [Open Notebook](https://drive.google.com/drive/folders/1-cAeiWcxfTJWtX5uV10UMMT4Okbvjr3u?usp=drive_link)
+
 ---
 
 ##  Students' Social Media Addiction Dataset
