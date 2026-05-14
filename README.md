@@ -10,7 +10,7 @@ This project focuses on the critical issue of social media addiction in the stud
 
 ## 🔗 Project Resources
 
-- 💻 Source Code: [Open Notebook](https://drive.google.com/drive/folders/1-cAeiWcxfTJWtX5uV10UMMT4Okbvjr3u?usp=drive_link)
+-  Source Code: [Open Notebook](https://drive.google.com/drive/folders/1-cAeiWcxfTJWtX5uV10UMMT4Okbvjr3u?usp=drive_link)
 
 ---
 
